@@ -1,0 +1,499 @@
+product_id,product_name,category,subcategory,cost_price,selling_price,quantity_sold,revenue,profit,profit_margin
+87,Iste Cookware,Home & Kitchen,Cookware,14138.11,19445.97,293,4984974.42,842508.19,16.90
+184,Unde Shoes,Fashion,Shoes,6648.56,10173.19,316,2815430.08,714485.12,25.38
+477,Nostrum Fiction,Books,Fiction,8615.24,13637.70,303,3626946.39,1016528.67,28.03
+273,Quo Skincare,Beauty,Skincare,5684.24,7380.04,309,1976005.71,219575.55,11.11
+394,Quidem Sportswear,Sports,Sportswear,12301.95,19109.52,293,4916879.51,1312408.16,26.69
+51,Assumenda Headphones,Electronics,Headphones,12772.97,15349.81,286,3817497.89,164428.47,4.31
+272,Explicabo Skincare,Beauty,Skincare,4546.81,5391.41,302,1427106.42,53969.73,3.78
+70,A Laptop,Electronics,Laptop,6979.42,9384.23,303,2510750.79,395986.53,15.77
+190,Ullam T-Shirt,Fashion,T-Shirt,14399.04,21888.48,288,5478686.50,1331762.98,24.31
+350,Iure Sportswear,Sports,Sportswear,13505.83,18028.13,337,5305678.60,754213.75,14.22
+278,Aspernatur Makeup,Beauty,Makeup,13081.04,18976.71,322,5395078.62,1182983.74,21.93
+406,Repudiandae Running Shoes,Sports,Running Shoes,7333.51,10982.01,265,2492367.31,548987.08,22.03
+424,Facilis Fiction,Books,Fiction,11661.89,16594.39,301,4376770.12,866541.32,19.80
+176,Aspernatur Shoes,Fashion,Shoes,3836.43,6048.90,353,1845519.33,491259.38,26.62
+309,Placeat Haircare,Beauty,Haircare,3889.96,5892.00,284,1457680.80,352932.16,24.21
+292,Molestiae Skincare,Beauty,Skincare,11339.82,15144.29,251,3335529.91,489235.09,14.67
+22,Dolore Laptop,Electronics,Laptop,3935.14,6144.19,297,1590116.18,421379.60,26.50
+271,Nam Skincare,Beauty,Skincare,643.55,860.95,286,216399.77,32344.68,14.95
+156,Cumque Storage,Home & Kitchen,Storage,8906.10,14111.06,246,3064922.13,874021.49,28.52
+417,Quisquam Academic,Books,Academic,1569.51,2258.33,330,659883.95,141945.59,21.51
+475,Itaque Technical,Books,Technical,6501.63,9167.74,283,2254805.71,414844.52,18.40
+282,Iure Makeup,Beauty,Makeup,9038.82,10772.24,286,2715681.75,130579.23,4.81
+390,Dolor Fitness Equipment,Sports,Fitness Equipment,11451.56,17905.31,294,4607036.28,1240277.64,26.92
+173,Consectetur T-Shirt,Fashion,T-Shirt,9292.22,11476.95,309,3113696.64,242400.76,7.78
+269,Officia Perfume,Beauty,Perfume,6338.47,7443.18,342,2243374.42,75617.68,3.37
+261,Veniam Skincare,Beauty,Skincare,1027.06,1311.88,315,361816.45,38292.55,10.58
+42,Explicabo Headphones,Electronics,Headphones,6529.51,8955.66,292,2285484.36,378867.44,16.58
+189,Odio Jacket,Fashion,Jacket,6152.64,7617.74,290,1915480.79,131215.11,6.85
+117,Quas Mixer,Home & Kitchen,Mixer,7225.83,9800.89,312,2642810.03,388350.99,14.69
+161,Enim Mixer,Home & Kitchen,Mixer,7441.33,8779.00,316,2446707.30,95247.02,3.89
+40,Beatae Laptop,Electronics,Laptop,13661.93,18132.72,238,3779765.52,528226.18,13.98
+257,Similique Makeup,Beauty,Makeup,7464.12,10866.21,317,3023523.04,657397.00,21.74
+125,Necessitatibus Cookware,Home & Kitchen,Cookware,3190.95,4087.95,286,1024235.82,111624.07,10.90
+113,Inventore Furniture,Home & Kitchen,Furniture,8789.12,10845.23,273,2574115.37,174685.61,6.79
+43,Repudiandae Headphones,Electronics,Headphones,5618.39,6991.07,334,2035450.04,158907.78,7.81
+120,Natus Furniture,Home & Kitchen,Furniture,3432.67,5200.01,286,1284142.71,302399.09,23.55
+440,Rerum Academic,Books,Academic,11857.01,18005.90,353,5614239.83,1428715.32,25.45
+187,Numquam Jeans,Fashion,Jeans,12534.39,18075.07,312,4934494.15,1023764.51,20.75
+349,Corrupti Fitness Equipment,Sports,Fitness Equipment,10701.67,14718.19,322,4161568.02,715630.28,17.20
+57,Ipsa Smartphone,Electronics,Smartphone,4070.92,5753.28,285,1430553.07,270340.87,18.90
+19,Repellendus Smartphone,Electronics,Smartphone,13521.98,17989.63,268,4183488.48,559597.94,13.38
+160,Debitis Bedsheet,Home & Kitchen,Bedsheet,13766.66,18960.28,262,4355176.32,748311.40,17.18
+242,Blanditiis Jeans,Fashion,Jeans,3409.01,4606.66,309,1234354.51,180970.30,14.66
+357,Odit Cricket Equipment,Sports,Cricket Equipment,8025.42,10491.69,344,3110786.15,350041.55,11.25
+331,Praesentium Perfume,Beauty,Perfume,8512.01,9796.97,366,3130621.68,15226.02,0.49
+266,Repellat Perfume,Beauty,Perfume,14883.12,23520.39,267,5453202.21,1479409.17,27.13
+315,Explicabo Perfume,Beauty,Perfume,5979.00,8672.25,309,2337604.95,490094.03,20.97
+307,Veritatis Haircare,Beauty,Haircare,13997.51,17717.48,321,4982155.40,488954.69,9.81
+366,Eveniet Cricket Equipment,Sports,Cricket Equipment,360.42,536.31,343,161911.96,38287.90,23.65
+91,Impedit Furniture,Home & Kitchen,Furniture,4252.34,6581.21,364,2091179.72,543327.96,25.98
+305,Nesciunt Haircare,Beauty,Haircare,9218.88,11301.83,316,3073532.67,160366.67,5.22
+29,Tempore Headphones,Electronics,Headphones,11290.55,15360.31,319,4302422.78,700737.42,16.29
+54,Eos Smartwatch,Electronics,Smartwatch,14511.86,18698.79,287,4690591.25,525687.56,11.21
+4,Delectus Headphones,Electronics,Headphones,3986.41,5407.84,309,1463091.11,231290.42,15.81
+181,Corporis Shoes,Fashion,Shoes,14948.43,21143.52,299,5525858.91,1056278.34,19.12
+96,Maxime Bedsheet,Home & Kitchen,Bedsheet,11083.21,15330.40,330,4434318.20,776858.90,17.52
+466,Dolorem Fiction,Books,Fiction,8354.75,12355.59,277,2979550.41,665284.66,22.33
+201,Hic Jeans,Fashion,Jeans,10556.79,15741.53,296,4043211.91,918402.07,22.71
+10,Voluptate Bluetooth Speaker,Electronics,Bluetooth Speaker,9746.28,11765.48,357,3657299.42,177877.46,4.86
+35,Necessitatibus Tablet,Electronics,Tablet,11124.07,16898.80,321,4827987.16,1257160.69,26.04
+107,Tempora Cookware,Home & Kitchen,Cookware,9696.90,12280.29,299,3273311.42,373938.32,11.42
+6,Assumenda Tablet,Electronics,Tablet,6152.81,7086.06,274,1692505.41,6635.36,0.39
+446,Laborum Academic,Books,Academic,924.59,1426.24,363,449479.57,113853.40,25.33
+220,Sequi Jacket,Fashion,Jacket,11794.95,17074.64,292,4372815.27,928689.87,21.24
+86,Exercitationem Kitchen Appliance,Home & Kitchen,Kitchen Appliance,5276.73,7504.71,263,1731711.76,343931.87,19.86
+400,Esse Cricket Equipment,Sports,Cricket Equipment,4707.89,7227.96,284,1805905.82,468865.06,25.96
+219,Omnis Shoes,Fashion,Shoes,9768.51,14247.40,327,4120348.08,926045.31,22.47
+241,Harum Shoes,Fashion,Shoes,4401.30,6463.83,295,1638580.90,340197.40,20.76
+175,Placeat Jeans,Fashion,Jeans,11919.54,17922.74,268,4210947.84,1016511.03,24.14
+363,Distinctio Fitness Equipment,Sports,Fitness Equipment,862.26,1357.18,302,359924.00,99521.48,27.65
+285,Assumenda Makeup,Beauty,Makeup,10352.39,15322.63,349,4704047.52,1091063.48,23.19
+50,Dolore Smartwatch,Electronics,Smartwatch,9182.60,13368.12,306,3527178.46,717302.86,20.34
+66,Corrupti Headphones,Electronics,Headphones,9273.83,13053.22,272,3127551.50,605069.74,19.35
+231,Cupiditate Shoes,Fashion,Shoes,6226.88,7974.87,321,2259280.71,260452.34,11.53
+340,Beatae Fitness Equipment,Sports,Fitness Equipment,1499.15,2186.13,326,624249.34,135526.44,21.71
+356,Minima Cricket Equipment,Sports,Cricket Equipment,5581.73,6737.76,284,1671638.29,86426.97,5.17
+13,Nobis Laptop,Electronics,Laptop,7315.27,11013.59,354,3429631.74,840026.16,24.49
+391,Voluptatum Cricket Equipment,Sports,Cricket Equipment,9518.73,12533.87,274,3028809.73,420677.79,13.89
+414,Id Fitness Equipment,Sports,Fitness Equipment,5246.93,7686.92,363,2429066.70,524431.11,21.59
+487,Quidem Non-Fiction,Books,Non-Fiction,4497.67,5917.92,291,1517354.71,208532.74,13.74
+458,Debitis Non-Fiction,Books,Non-Fiction,746.40,1149.00,286,288743.70,75273.30,26.07
+2,A Smartwatch,Electronics,Smartwatch,3431.48,4558.22,351,1394359.46,189909.98,13.62
+368,Deserunt Sportswear,Sports,Sportswear,4455.01,6734.23,248,1481193.98,376351.50,25.41
+246,Voluptatum Shoes,Fashion,Shoes,13137.65,20385.93,264,4639837.60,1171498.00,25.25
+75,Nobis Bluetooth Speaker,Electronics,Bluetooth Speaker,12694.90,18287.28,306,4848872.24,964232.84,19.89
+128,Quibusdam Furniture,Home & Kitchen,Furniture,12983.78,19287.47,283,4814152.62,1139742.92,23.67
+166,Blanditiis Storage,Home & Kitchen,Storage,9753.21,13153.33,297,3439595.71,542892.34,15.78
+344,Officiis Cricket Equipment,Sports,Cricket Equipment,8660.41,12015.94,265,2770875.86,475867.21,17.17
+142,Dolorum Cookware,Home & Kitchen,Cookware,13363.81,18057.64,313,4926124.14,743251.61,15.09
+410,Repellat Running Shoes,Sports,Running Shoes,3652.65,5727.66,312,1575106.43,435479.58,27.65
+152,At Cookware,Home & Kitchen,Cookware,9075.77,11413.87,281,2826074.24,275782.87,9.76
+428,Aperiam Technical,Books,Technical,10895.70,12741.67,293,3291173.36,98733.26,3.00
+355,Corporis Cricket Equipment,Sports,Cricket Equipment,11102.84,15221.77,338,4531520.85,778760.83,17.19
+222,Nemo T-Shirt,Fashion,T-Shirt,3806.44,5982.15,320,1724952.82,506891.97,29.39
+381,Veniam Sportswear,Sports,Sportswear,11261.37,13680.18,298,3541798.51,185910.19,5.25
+38,Possimus Headphones,Electronics,Headphones,8692.36,10768.10,285,2674796.02,197473.40,7.38
+359,Nobis Running Shoes,Sports,Running Shoes,9348.39,10838.69,302,2890678.69,67464.91,2.33
+193,Rem Jeans,Fashion,Jeans,634.40,900.06,300,233610.41,43290.41,18.53
+164,Placeat Furniture,Home & Kitchen,Furniture,4156.46,5707.57,311,1550746.74,258087.55,16.64
+453,Asperiores Technical,Books,Technical,6516.68,9418.02,316,2624802.17,565531.41,21.55
+217,Debitis Jacket,Fashion,Jacket,5454.53,8620.94,296,2222909.37,608368.57,27.37
+186,Dignissimos T-Shirt,Fashion,T-Shirt,2038.13,2675.50,288,678105.38,91123.92,13.44
+47,Sit Smartwatch,Electronics,Smartwatch,547.61,764.72,290,194812.45,36005.55,18.48
+177,Iure Dress,Fashion,Dress,7488.23,10361.21,295,2665421.37,456393.52,17.12
+182,Harum T-Shirt,Fashion,T-Shirt,3158.56,3896.99,259,886954.72,68887.68,7.77
+18,Tempore Headphones,Electronics,Headphones,8634.82,12503.36,299,3215864.14,634052.96,19.72
+110,Molestiae Mixer,Home & Kitchen,Mixer,11638.21,15908.48,302,4238019.10,723279.68,17.07
+145,Dicta Bedsheet,Home & Kitchen,Bedsheet,539.32,816.45,329,235015.21,57578.86,24.50
+27,Numquam Headphones,Electronics,Headphones,5401.97,6586.67,275,1582447.58,96905.83,6.12
+143,Optio Storage,Home & Kitchen,Storage,5693.83,8356.36,284,2089925.64,472877.92,22.63
+496,Error Fiction,Books,Fiction,6988.47,8677.78,338,2572527.92,210425.06,8.18
+58,Repellat Smartphone,Electronics,Smartphone,1488.06,2289.83,302,607148.49,157754.37,25.98
+228,Expedita Shoes,Fashion,Shoes,8861.01,10649.23,264,2474881.05,135574.41,5.48
+485,Dignissimos Academic,Books,Academic,3953.00,5442.81,295,1405333.75,239198.75,17.02
+294,Quibusdam Haircare,Beauty,Haircare,13234.04,20009.51,333,5891800.15,1484864.83,25.20
+229,Eum Accessories,Fashion,Accessories,12710.54,18833.11,239,3927645.03,889825.97,22.66
+481,Deserunt Academic,Books,Academic,8049.47,11124.53,290,2810612.45,476266.15,16.95
+304,Placeat Perfume,Beauty,Perfume,6765.68,10382.83,295,2652813.10,656937.50,24.76
+52,Dolorum Smartphone,Electronics,Smartphone,690.74,817.66,318,227268.45,7613.08,3.35
+438,Nulla Non-Fiction,Books,Non-Fiction,6862.47,9685.93,315,2672832.34,511154.29,19.12
+382,Itaque Running Shoes,Sports,Running Shoes,1868.47,2155.22,293,555400.29,7938.62,1.43
+258,Atque Perfume,Beauty,Perfume,5534.61,8370.38,357,2594399.24,618543.57,23.84
+341,Nisi Sportswear,Sports,Sportswear,6757.54,9157.55,333,2693235.44,442974.60,16.45
+378,Debitis Sportswear,Sports,Sportswear,5022.78,6541.00,288,1678093.55,231532.91,13.80
+483,Iure Technical,Books,Technical,2833.45,4137.67,279,1007522.63,216990.20,21.54
+450,Fuga Academic,Books,Academic,11816.44,14038.90,313,3847360.42,148814.53,3.87
+405,Tempora Sportswear,Sports,Sportswear,3205.62,4029.95,321,1115288.56,86284.54,7.74
+84,Pariatur Storage,Home & Kitchen,Storage,8133.40,11698.94,305,3143505.28,662818.37,21.09
+170,Ipsum Shoes,Fashion,Shoes,9967.03,14557.30,296,3776891.35,826650.36,21.89
+192,Unde Dress,Fashion,Dress,5418.84,8594.68,297,2267276.55,657881.07,29.02
+276,Provident Makeup,Beauty,Makeup,3501.40,4902.64,310,1308759.69,223325.69,17.06
+101,Minima Furniture,Home & Kitchen,Furniture,13625.44,20963.97,325,5941189.05,1512921.05,25.46
+473,Modi Non-Fiction,Books,Non-Fiction,11640.71,17799.33,296,4547728.79,1102078.63,24.23
+69,Est Headphones,Electronics,Headphones,1948.94,2943.74,256,654982.17,156053.53,23.83
+379,Dolor Sportswear,Sports,Sportswear,6962.16,8441.48,303,2216310.60,106776.12,4.82
+320,Quis Makeup,Beauty,Makeup,2948.93,3460.87,314,939972.27,14008.36,1.49
+115,Beatae Furniture,Home & Kitchen,Furniture,4683.57,6946.44,295,1784887.72,403234.57,22.59
+375,Qui Fitness Equipment,Sports,Fitness Equipment,3178.45,3778.86,300,998752.59,45217.65,4.53
+97,Velit Storage,Home & Kitchen,Storage,11172.97,14784.69,312,4056918.98,570952.34,14.07
+415,Possimus Fitness Equipment,Sports,Fitness Equipment,8366.63,12181.67,329,3494312.14,741690.91,21.23
+108,Quo Mixer,Home & Kitchen,Mixer,3707.95,5606.90,288,1409854.88,341965.34,24.26
+408,Asperiores Cricket Equipment,Sports,Cricket Equipment,242.89,368.91,292,93684.66,22760.86,24.30
+59,Reiciendis Smartwatch,Electronics,Smartwatch,14271.26,17036.49,315,4655220.95,159774.05,3.43
+127,Ullam Bedsheet,Home & Kitchen,Bedsheet,10436.52,16688.12,347,5096551.84,1475079.40,28.94
+329,Impedit Perfume,Beauty,Perfume,9845.55,14273.47,269,3399226.92,750773.97,22.09
+44,Dolores Smartwatch,Electronics,Smartwatch,6492.15,8075.45,246,1716840.69,119771.93,6.98
+11,Illo Smartwatch,Electronics,Smartwatch,12469.10,15531.97,268,3639140.54,297421.67,8.17
+401,Doloremque Cricket Equipment,Sports,Cricket Equipment,4980.31,6410.41,290,1622474.95,178185.00,10.98
+153,Iste Storage,Home & Kitchen,Storage,6107.08,7283.82,301,1881046.60,42815.52,2.28
+279,Optio Perfume,Beauty,Perfume,733.49,1033.55,287,256785.49,46273.69,18.02
+214,Amet Jeans,Fashion,Jeans,7393.09,11361.73,247,2458678.33,632585.10,25.73
+9,Expedita Laptop,Electronics,Laptop,1978.16,3135.73,243,656935.43,176242.55,26.83
+419,Sit Academic,Books,Academic,9155.93,12074.28,367,3838413.62,478187.31,12.46
+85,Ipsam Kitchen Appliance,Home & Kitchen,Kitchen Appliance,6417.49,7561.58,329,2180381.51,69027.20,3.17
+457,Molestiae Fiction,Books,Fiction,14859.24,22554.04,281,5564081.65,1388635.21,24.96
+95,Nobis Bedsheet,Home & Kitchen,Bedsheet,8999.01,13622.83,263,3125758.34,759018.71,24.28
+281,Repudiandae Skincare,Beauty,Skincare,694.50,914.87,280,224783.56,30323.67,13.49
+259,Necessitatibus Haircare,Beauty,Haircare,12292.13,19382.18,307,5176980.19,1403296.38,27.11
+302,Assumenda Makeup,Beauty,Makeup,6746.68,10141.63,292,2592707.75,622677.19,24.02
+172,Aliquid Jacket,Fashion,Jacket,2113.58,2606.29,320,738492.33,62146.73,8.42
+409,Similique Running Shoes,Sports,Running Shoes,1968.87,2947.36,330,844123.86,194396.76,23.03
+30,Veniam Bluetooth Speaker,Electronics,Bluetooth Speaker,1507.55,2247.33,295,586665.47,141938.22,24.19
+288,Optio Skincare,Beauty,Skincare,10052.20,15583.56,324,4409368.31,1152455.51,26.14
+21,Architecto Tablet,Electronics,Tablet,14830.35,17685.57,305,4771566.68,248309.85,5.20
+3,Odio Headphones,Electronics,Headphones,4782.88,6515.33,299,1709948.19,279867.07,16.37
+324,Laudantium Haircare,Beauty,Haircare,10661.29,17007.01,309,4603797.87,1309459.14,28.44
+249,Consequuntur Dress,Fashion,Dress,13466.55,21073.94,300,5524533.41,1484568.41,26.87
+398,Unde Running Shoes,Sports,Running Shoes,9495.58,13843.12,287,3492619.15,767387.69,21.97
+255,Omnis Haircare,Beauty,Haircare,9436.17,14211.40,289,3573456.53,846403.40,23.69
+388,Et Fitness Equipment,Sports,Fitness Equipment,12190.86,19350.89,286,4820306.75,1333720.69,27.67
+165,Culpa Furniture,Home & Kitchen,Furniture,8010.11,11955.96,317,3340495.29,801290.42,23.99
+56,Asperiores Tablet,Electronics,Tablet,7590.99,9263.50,304,2450195.93,142534.98,5.82
+151,Beatae Storage,Home & Kitchen,Storage,8217.92,12935.42,289,3286890.32,911911.41,27.74
+296,Eligendi Skincare,Beauty,Skincare,2946.79,3635.92,312,987515.83,68117.35,6.90
+209,Animi Dress,Fashion,Dress,9080.05,14058.09,299,3674784.79,959849.84,26.12
+74,Sunt Tablet,Electronics,Tablet,9382.66,12770.15,279,3119109.03,501346.89,16.07
+34,Fugiat Bluetooth Speaker,Electronics,Bluetooth Speaker,5203.15,6802.21,314,1894755.77,260966.67,13.77
+138,Accusantium Kitchen Appliance,Home & Kitchen,Kitchen Appliance,4083.09,6314.57,290,1613056.87,428960.74,26.59
+418,Minima Technical,Books,Technical,5834.10,6993.91,348,2173007.88,142741.08,6.57
+245,Accusantium T-Shirt,Fashion,T-Shirt,452.00,532.44,302,139845.31,3341.31,2.39
+205,Debitis T-Shirt,Fashion,T-Shirt,8585.91,13389.91,292,3453927.22,946841.50,27.41
+67,In Headphones,Electronics,Headphones,10061.34,13323.20,278,3192238.72,395186.20,12.38
+407,Molestias Running Shoes,Sports,Running Shoes,3063.92,4489.41,291,1149289.18,257688.38,22.42
+90,Veritatis Storage,Home & Kitchen,Storage,13753.92,21962.08,302,5856188.72,1702504.88,29.07
+325,Recusandae Haircare,Beauty,Haircare,7537.43,9497.71,301,2475578.07,206811.64,8.35
+387,Cumque Cricket Equipment,Sports,Cricket Equipment,12771.00,17293.70,313,4734150.48,736827.37,15.56
+443,Corrupti Non-Fiction,Books,Non-Fiction,6652.88,7660.48,310,2094375.26,31982.46,1.53
+484,Perspiciatis Fiction,Books,Fiction,2209.12,3212.04,240,670834.58,140645.78,20.97
+334,Tenetur Sportswear,Sports,Sportswear,9844.55,12478.09,337,3675421.49,357808.14,9.74
+144,Sequi Furniture,Home & Kitchen,Furniture,8015.95,9977.20,312,2724773.32,223796.92,8.21
+39,Repellat Smartphone,Electronics,Smartphone,3286.89,5041.85,323,1434154.27,372488.91,25.97
+168,Minus T-Shirt,Fashion,T-Shirt,3574.37,4942.98,302,1310383.89,230924.15,17.62
+471,Voluptates Non-Fiction,Books,Non-Fiction,5718.09,8131.04,300,2166922.14,451495.14,20.84
+393,Nihil Cricket Equipment,Sports,Cricket Equipment,13088.92,17517.84,279,4338293.12,686484.44,15.82
+287,Labore Perfume,Beauty,Perfume,8894.05,10968.35,264,2529850.10,181820.92,7.19
+464,Nesciunt Technical,Books,Technical,13213.35,19491.22,286,4818229.61,1039211.61,21.57
+167,Hic Accessories,Fashion,Accessories,4179.79,6629.33,293,1697771.31,473092.84,27.87
+312,Corporis Makeup,Beauty,Makeup,9473.76,14272.29,310,3833537.23,896671.63,23.39
+498,Quaerat Technical,Books,Technical,3254.66,4105.54,286,1021458.45,90625.66,8.87
+277,Ea Skincare,Beauty,Skincare,11720.86,16728.34,297,4388680.05,907584.63,20.68
+290,Fugiat Skincare,Beauty,Skincare,8482.05,12101.53,307,3203880.04,599890.69,18.72
+494,Nisi Fiction,Books,Fiction,4880.73,7733.25,264,1779034.22,490521.64,27.57
+469,Numquam Academic,Books,Academic,9186.75,12110.13,303,3189808.17,406222.83,12.74
+300,Ipsum Makeup,Beauty,Makeup,11544.14,17249.75,329,4989490.15,1191468.27,23.88
+118,Iusto Mixer,Home & Kitchen,Mixer,14520.34,22418.87,325,6525012.18,1805901.68,27.68
+284,Distinctio Makeup,Beauty,Makeup,6207.28,7273.81,299,1921013.41,65036.69,3.39
+317,Corporis Makeup,Beauty,Makeup,12628.78,17799.54,297,4632330.47,881582.73,19.03
+342,Ullam Cricket Equipment,Sports,Cricket Equipment,13008.79,15763.79,276,3837694.45,247268.41,6.44
+488,Similique Academic,Books,Academic,3615.22,5741.33,327,1649484.01,467307.07,28.33
+126,Iste Furniture,Home & Kitchen,Furniture,7115.73,10257.14,299,2635572.13,507968.99,19.27
+194,Cupiditate Jacket,Fashion,Jacket,1936.62,2534.94,323,715106.72,89578.56,12.53
+360,Cumque Fitness Equipment,Sports,Fitness Equipment,7201.61,10561.02,301,2811343.58,643659.06,22.90
+463,Numquam Technical,Books,Technical,1766.44,2402.60,312,662156.56,111027.28,16.77
+476,Reiciendis Non-Fiction,Books,Non-Fiction,5846.55,8015.07,322,2279085.20,396496.10,17.40
+99,Perferendis Furniture,Home & Kitchen,Furniture,11219.81,14664.20,301,3836887.93,459725.12,11.98
+367,Harum Fitness Equipment,Sports,Fitness Equipment,1809.28,2528.27,265,588454.83,108995.63,18.52
+374,Nulla Running Shoes,Sports,Running Shoes,6092.52,7124.93,260,1612371.64,28316.38,1.76
+41,Sed Smartwatch,Electronics,Smartwatch,7548.86,10341.84,283,2560122.49,423795.11,16.55
+439,Odit Non-Fiction,Books,Non-Fiction,6277.91,9366.89,288,2352026.16,543987.95,23.13
+206,Explicabo T-Shirt,Fashion,T-Shirt,13661.24,17841.11,319,4990158.41,632222.95,12.67
+46,Iure Smartwatch,Electronics,Smartwatch,1280.01,1671.34,304,444492.94,55369.90,12.46
+224,Mollitia Jacket,Fashion,Jacket,5059.50,6509.04,284,1615543.71,178645.71,11.06
+32,Assumenda Laptop,Electronics,Laptop,11881.41,15013.22,353,4624071.81,429933.99,9.30
+53,Placeat Laptop,Electronics,Laptop,9224.89,11996.42,308,3230635.95,389369.96,12.05
+318,Dignissimos Makeup,Beauty,Makeup,3796.30,5684.77,255,1273956.95,305900.45,24.01
+336,Perferendis Sportswear,Sports,Sportswear,13749.23,16836.26,291,4318500.62,317474.69,7.35
+275,Sunt Skincare,Beauty,Skincare,9461.06,13345.66,261,3072170.79,602834.13,19.62
+247,Iusto Jacket,Fashion,Jacket,14752.44,20599.40,288,5213708.14,965005.42,18.51
+260,Cupiditate Makeup,Beauty,Makeup,4289.31,5890.92,279,1417649.89,220932.40,15.58
+423,Incidunt Fiction,Books,Fiction,10347.34,15257.14,324,4350573.57,998035.40,22.94
+136,Excepturi Furniture,Home & Kitchen,Furniture,12102.07,14517.39,324,4109146.99,188076.31,4.58
+139,Blanditiis Furniture,Home & Kitchen,Furniture,8573.57,11670.34,306,3113646.88,490134.46,15.74
+442,Voluptates Fiction,Books,Fiction,11144.66,12948.71,293,3356953.04,91567.66,2.73
+354,Harum Cricket Equipment,Sports,Cricket Equipment,13817.37,20515.94,292,5194636.00,1159963.96,22.33
+12,Illum Smartwatch,Electronics,Smartwatch,6347.00,10036.35,290,2563785.72,723155.72,28.21
+479,Neque Fiction,Books,Fiction,3350.74,3968.40,305,1065118.56,43142.86,4.05
+293,Harum Perfume,Beauty,Perfume,6597.70,8325.04,294,2140367.77,200643.97,9.37
+411,Voluptatum Cricket Equipment,Sports,Cricket Equipment,9668.86,11757.58,256,2660152.42,184924.23,6.95
+425,Excepturi Non-Fiction,Books,Non-Fiction,3860.76,5569.95,295,1455149.31,316225.04,21.73
+495,Id Academic,Books,Academic,10926.60,16405.62,318,4569785.63,1095126.75,23.96
+154,Adipisci Cookware,Home & Kitchen,Cookware,8635.78,10426.14,293,2667528.04,137244.39,5.15
+234,Magnam Shoes,Fashion,Shoes,9099.75,13740.31,291,3444008.68,795981.43,23.11
+316,Et Skincare,Beauty,Skincare,14389.30,17335.95,322,4983218.85,349864.46,7.02
+403,Reiciendis Fitness Equipment,Sports,Fitness Equipment,3017.35,4001.33,353,1241812.67,176688.12,14.23
+474,Provident Non-Fiction,Books,Non-Fiction,1111.41,1468.16,290,371517.88,49208.98,13.25
+256,Distinctio Perfume,Beauty,Perfume,4656.66,6994.34,306,1878679.81,453741.85,24.15
+332,Ipsum Haircare,Beauty,Haircare,5192.40,7956.72,252,1769176.68,460691.88,26.04
+33,Fugit Smartwatch,Electronics,Smartwatch,1603.74,2341.76,289,589655.20,126174.34,21.40
+422,Exercitationem Non-Fiction,Books,Non-Fiction,651.79,955.30,303,257214.41,59722.14,23.22
+264,Est Haircare,Beauty,Haircare,13338.41,17521.19,290,4412711.49,544572.59,12.34
+185,Adipisci Shoes,Fashion,Shoes,2486.82,3552.90,307,965322.89,201869.06,20.91
+215,Quaerat Jeans,Fashion,Jeans,11517.39,17755.82,301,4633381.31,1166647.02,25.18
+380,Expedita Cricket Equipment,Sports,Cricket Equipment,10181.89,13565.66,271,3229305.18,470012.99,14.55
+130,Facere Cookware,Home & Kitchen,Cookware,13570.75,16806.76,283,4201689.95,361167.70,8.60
+270,Ipsa Haircare,Beauty,Haircare,11427.69,14692.41,243,3128014.22,351085.51,11.22
+23,Esse Laptop,Electronics,Laptop,14977.52,20735.97,308,5603895.83,990819.67,17.68
+435,Id Technical,Books,Technical,6000.97,9248.74,279,2267791.13,593520.48,26.17
+486,Illo Fiction,Books,Fiction,2957.19,3610.55,300,947769.45,60612.53,6.40
+384,Harum Sportswear,Sports,Sportswear,8337.92,9744.95,311,2650626.42,57533.31,2.17
+351,Omnis Fitness Equipment,Sports,Fitness Equipment,2955.27,4050.16,305,1071064.78,169707.43,15.84
+116,Fugiat Mixer,Home & Kitchen,Mixer,10510.09,13395.25,320,3752679.35,389450.47,10.38
+314,Officia Perfume,Beauty,Perfume,4170.38,6588.44,245,1410255.58,388512.48,27.55
+386,Distinctio Cricket Equipment,Sports,Cricket Equipment,14577.77,17310.42,264,3996110.45,147579.17,3.69
+431,Facere Non-Fiction,Books,Non-Fiction,14690.93,19102.94,289,4785286.47,539607.70,11.28
+426,Distinctio Academic,Books,Academic,8915.10,14244.20,301,3715599.57,1032154.47,27.78
+364,Ratione Cricket Equipment,Sports,Cricket Equipment,9487.17,12955.78,317,3593933.38,586500.49,16.32
+433,Accusantium Fiction,Books,Fiction,10026.41,15376.72,332,4455404.66,1126636.54,25.29
+462,Accusantium Non-Fiction,Books,Non-Fiction,5405.25,6334.51,305,1702716.24,54114.99,3.18
+491,Mollitia Technical,Books,Technical,13603.85,15693.86,254,3451079.78,-4298.21,-0.12
+299,Beatae Haircare,Beauty,Haircare,12753.77,16145.58,265,3734472.61,354723.56,9.50
+169,Officiis Shoes,Fashion,Shoes,7044.11,9472.83,290,2418413.45,375621.55,15.53
+92,Vero Mixer,Home & Kitchen,Mixer,2689.60,3336.03,271,788470.70,59589.17,7.56
+345,Labore Cricket Equipment,Sports,Cricket Equipment,12106.10,16149.31,344,4844792.95,680294.55,14.04
+436,Maiores Academic,Books,Academic,8162.17,11766.70,285,2898138.39,571919.81,19.73
+180,Amet Jacket,Fashion,Jacket,8517.13,11989.06,288,3076392.71,623459.33,20.27
+437,Aut Academic,Books,Academic,2378.63,3743.50,299,974245.81,263035.27,27.00
+236,Ducimus Jacket,Fashion,Jacket,1351.48,1591.91,285,399887.86,14716.06,3.68
+263,Repudiandae Haircare,Beauty,Haircare,5427.24,7761.60,322,2211667.92,464096.64,20.98
+197,Debitis Jeans,Fashion,Jeans,13022.45,18655.70,316,5154569.91,1039475.57,20.17
+135,Reiciendis Cookware,Home & Kitchen,Cookware,9498.62,12787.94,319,3616429.52,586369.63,16.21
+493,Hic Academic,Books,Academic,5728.12,8541.29,319,2392415.36,565145.08,23.62
+470,Id Technical,Books,Technical,9888.16,12736.97,274,3054325.34,344969.50,11.29
+454,Minima Academic,Books,Academic,4727.45,5496.50,260,1240010.42,10873.53,0.88
+482,Atque Academic,Books,Academic,5733.88,7201.41,302,1884969.27,153337.43,8.13
+227,Neque Accessories,Fashion,Accessories,11480.66,15850.48,267,3748638.54,683302.32,18.23
+478,Explicabo Non-Fiction,Books,Non-Fiction,3320.12,4175.18,324,1183245.97,107527.14,9.09
+149,Delectus Kitchen Appliance,Home & Kitchen,Kitchen Appliance,7161.49,9630.21,349,2950214.97,450854.96,15.28
+311,Quae Makeup,Beauty,Makeup,3100.57,3955.14,290,1008956.29,109790.93,10.88
+73,Atque Headphones,Electronics,Headphones,14717.55,22858.01,320,6363670.22,1654054.22,25.99
+103,Fuga Bedsheet,Home & Kitchen,Bedsheet,548.06,720.18,243,153254.21,20075.70,13.10
+280,Unde Haircare,Beauty,Haircare,9764.20,11336.23,300,2968958.66,39698.66,1.34
+121,Cum Storage,Home & Kitchen,Storage,4012.00,4666.72,294,1170180.09,-9347.91,-0.80
+239,Suscipit Dress,Fashion,Dress,9488.26,14898.44,310,4009915.10,1068554.50,26.65
+88,Eius Furniture,Home & Kitchen,Furniture,12957.49,19669.94,288,4952890.87,1221133.75,24.65
+420,Quae Technical,Books,Technical,9143.74,12546.23,304,3391873.33,612176.44,18.05
+188,Mollitia Jeans,Fashion,Jeans,9184.37,13034.02,324,3682762.49,707026.54,19.20
+461,Velit Academic,Books,Academic,11996.79,17740.53,320,4969122.42,1130149.50,22.74
+240,Omnis Shoes,Fashion,Shoes,5707.14,8807.52,315,2426031.41,628282.31,25.90
+328,Et Haircare,Beauty,Haircare,10201.54,13794.62,287,3484521.10,556679.06,15.98
+196,Quaerat Jeans,Fashion,Jeans,13880.99,16124.02,265,3726261.06,47798.66,1.28
+291,Sunt Haircare,Beauty,Haircare,4393.23,6908.83,313,1890255.96,515174.97,27.25
+15,Minus Laptop,Electronics,Laptop,9060.71,11225.34,306,2971347.66,198770.40,6.69
+210,Sed Jacket,Fashion,Jacket,12207.96,19209.56,317,5340257.69,1470334.37,27.53
+226,Deserunt Accessories,Fashion,Accessories,12028.27,13913.12,344,4164196.84,26471.96,0.64
+48,Voluptate Smartwatch,Electronics,Smartwatch,12031.82,14806.60,260,3383308.10,255034.90,7.54
+447,Id Non-Fiction,Books,Non-Fiction,7593.99,10121.25,272,2387602.96,322037.75,13.49
+298,Officiis Makeup,Beauty,Makeup,10973.37,14658.92,334,4254018.49,588912.91,13.84
+81,Vitae Laptop,Electronics,Laptop,11006.33,16867.44,327,4835051.70,1235981.79,25.56
+61,Quia Tablet,Electronics,Tablet,12417.67,18214.44,319,5120079.12,1158842.39,22.63
+244,Ipsa Jeans,Fashion,Jeans,7341.41,9995.12,263,2292380.77,361589.94,15.77
+468,Eum Academic,Books,Academic,14169.31,18093.77,306,4874461.59,538652.69,11.05
+251,Velit Haircare,Beauty,Haircare,11863.76,17161.47,261,3899086.07,802644.75,20.59
+204,Et Jacket,Fashion,Jacket,13142.40,19737.16,289,4988567.19,1190413.59,23.86
+5,Provident Laptop,Electronics,Laptop,6159.80,8223.39,276,1993349.53,293244.73,14.71
+104,Sequi Furniture,Home & Kitchen,Furniture,7528.29,10691.92,238,2273636.81,481903.79,21.20
+171,Eos T-Shirt,Fashion,T-Shirt,13046.05,20155.34,321,5627371.03,1439589.04,25.58
+456,Vitae Technical,Books,Technical,5977.08,9020.43,313,2446791.69,575965.71,23.54
+397,Reprehenderit Sportswear,Sports,Sportswear,10314.38,13775.05,246,2967145.60,429808.16,14.49
+427,Quam Academic,Books,Academic,4455.33,6125.21,321,1715059.05,284898.12,16.61
+283,Voluptatum Haircare,Beauty,Haircare,12650.04,15533.56,321,4333863.19,273200.35,6.30
+347,Adipisci Running Shoes,Sports,Running Shoes,935.00,1112.10,310,301434.50,11584.47,3.84
+179,Occaecati Shoes,Fashion,Shoes,14908.94,23107.98,304,6201026.33,1668708.57,26.91
+297,Velit Perfume,Beauty,Perfume,6637.48,9068.99,297,2336625.09,365293.55,15.63
+361,Ut Running Shoes,Sports,Running Shoes,9323.04,12522.21,264,2873847.28,412564.72,14.36
+321,Ducimus Perfume,Beauty,Perfume,3275.27,4482.82,295,1141774.32,175569.62,15.38
+303,Earum Haircare,Beauty,Haircare,7870.59,11470.56,311,3130889.32,683135.83,21.82
+105,Consequatur Mixer,Home & Kitchen,Mixer,8475.54,10787.69,339,3225519.35,352311.23,10.92
+402,Itaque Cricket Equipment,Sports,Cricket Equipment,11730.06,14009.64,302,3706950.75,164472.63,4.44
+472,Ad Academic,Books,Academic,11325.54,13928.71,373,4519866.38,295439.96,6.54
+444,Porro Fiction,Books,Fiction,8925.60,13655.66,277,3324470.30,852079.10,25.63
+233,Dolore Dress,Fashion,Dress,9015.76,11833.19,302,3110353.84,387594.32,12.46
+445,Autem Fiction,Books,Fiction,12255.81,14465.04,246,3104197.62,89268.36,2.88
+89,Libero Kitchen Appliance,Home & Kitchen,Kitchen Appliance,4541.48,5657.06,335,1649315.75,127920.05,7.76
+93,Doloremque Furniture,Home & Kitchen,Furniture,6055.08,8306.10,380,2792095.58,491165.38,17.59
+373,Sit Cricket Equipment,Sports,Cricket Equipment,2858.31,3833.69,336,1123079.55,162687.30,14.49
+252,Debitis Perfume,Beauty,Perfume,1937.71,2516.02,291,638565.99,74692.26,11.70
+343,Explicabo Fitness Equipment,Sports,Fitness Equipment,5021.80,7202.30,288,1817860.44,371582.13,20.44
+31,Quae Smartphone,Electronics,Smartphone,4742.56,6969.88,336,2040083.89,446583.73,21.89
+467,Non Academic,Books,Academic,10958.69,13895.21,243,2958985.10,296023.43,10.00
+327,Odit Perfume,Beauty,Perfume,10359.99,16172.09,362,5181537.66,1431221.28,27.62
+253,Sed Makeup,Beauty,Makeup,5283.89,6147.50,330,1754189.08,10505.12,0.60
+14,Sequi Headphones,Electronics,Headphones,2178.22,2761.20,266,623617.02,44210.50,7.09
+497,Saepe Non-Fiction,Books,Non-Fiction,10105.90,12584.45,283,3095145.46,235175.94,7.60
+109,Dolorum Bedsheet,Home & Kitchen,Bedsheet,4338.93,6682.41,318,1864392.63,484612.80,25.99
+155,Occaecati Furniture,Home & Kitchen,Furniture,7033.47,9240.31,310,2497655.82,317280.12,12.70
+133,Sit Storage,Home & Kitchen,Storage,14332.92,20195.15,305,5442593.04,1071052.48,19.68
+416,Magnam Non-Fiction,Books,Non-Fiction,12966.60,20282.25,286,5091858.98,1383411.25,27.17
+195,Velit T-Shirt,Fashion,T-Shirt,12103.80,17637.39,316,4829117.12,1004316.42,20.80
+199,Harum Shoes,Fashion,Shoes,264.81,339.35,315,93491.06,10075.87,10.78
+372,Assumenda Fitness Equipment,Sports,Fitness Equipment,6763.35,8535.41,276,2052766.31,186081.62,9.06
+369,Voluptates Fitness Equipment,Sports,Fitness Equipment,12381.97,14853.46,296,3853730.09,188666.99,4.90
+441,Adipisci Fiction,Books,Fiction,1994.96,2685.71,301,717755.96,117273.00,16.34
+339,Voluptatem Running Shoes,Sports,Running Shoes,2828.06,3330.47,301,882075.04,30828.98,3.50
+243,Voluptas Shoes,Fashion,Shoes,11102.58,16826.02,291,4254459.21,1023608.38,24.06
+335,Corporis Running Shoes,Sports,Running Shoes,14121.46,17917.10,296,4593048.49,413096.33,8.99
+383,Eum Running Shoes,Sports,Running Shoes,13570.62,20769.24,287,5204771.51,1310003.57,25.17
+230,Eos Jacket,Fashion,Jacket,8667.21,12519.64,297,3278267.75,704106.38,21.48
+7,Optio Headphones,Electronics,Headphones,5788.85,8525.08,253,1851647.42,387068.37,20.90
+301,Eos Perfume,Beauty,Perfume,9069.21,12201.19,318,3361427.65,477418.99,14.20
+254,Omnis Makeup,Beauty,Makeup,11692.54,15713.80,351,4769138.30,665056.76,13.95
+377,Nisi Cricket Equipment,Sports,Cricket Equipment,6394.10,7772.00,333,2244553.60,115318.30,5.14
+78,Laborum Headphones,Electronics,Headphones,305.27,366.94,269,87478.53,5360.97,6.13
+159,Reiciendis Furniture,Home & Kitchen,Furniture,14040.58,18963.94,324,5344986.53,795838.61,14.89
+250,Nostrum Skincare,Beauty,Skincare,6658.38,8054.36,298,2097355.38,113158.14,5.40
+432,Veniam Non-Fiction,Books,Non-Fiction,13984.66,18402.05,351,5625506.48,716891.04,12.74
+20,Culpa Headphones,Electronics,Headphones,680.43,866.14,293,223247.64,23881.73,10.70
+319,Cupiditate Makeup,Beauty,Makeup,4141.09,5806.15,220,1140908.46,229868.51,20.15
+1,Repellendus Tablet,Electronics,Tablet,11031.17,17046.14,290,4367221.18,1168181.81,26.75
+76,Placeat Tablet,Electronics,Tablet,13742.08,18548.64,347,5591487.56,822985.80,14.72
+106,Debitis Storage,Home & Kitchen,Storage,7958.43,10578.85,325,2999104.04,412614.35,13.76
+178,Libero Accessories,Fashion,Accessories,9437.79,14372.65,299,3803003.23,981103.80,25.80
+129,Labore Cookware,Home & Kitchen,Cookware,3432.48,5271.26,308,1422712.95,365509.23,25.69
+203,Quibusdam Jeans,Fashion,Jeans,12154.67,14281.25,303,3816664.06,133799.07,3.51
+8,Sed Laptop,Electronics,Laptop,12851.15,17957.31,287,4504591.23,816311.18,18.12
+346,Minus Cricket Equipment,Sports,Cricket Equipment,3684.40,4761.97,318,1326446.67,154807.42,11.67
+455,Expedita Academic,Books,Academic,6854.05,9842.98,291,2509467.67,514939.03,20.52
+370,Quo Sportswear,Sports,Sportswear,3740.26,5705.65,321,1621260.18,420636.72,25.95
+71,Consequuntur Laptop,Electronics,Laptop,10184.48,11974.00,301,3165326.90,99798.42,3.15
+68,Hic Laptop,Electronics,Laptop,14671.56,20728.20,319,5782131.39,1101903.75,19.06
+267,Nesciunt Makeup,Beauty,Makeup,3212.35,4842.46,279,1188581.70,292336.14,24.60
+448,Provident Non-Fiction,Books,Non-Fiction,8005.25,10447.86,298,2729503.34,343938.95,12.60
+146,In Bedsheet,Home & Kitchen,Bedsheet,10096.49,15102.74,333,4379039.54,1016908.52,23.22
+80,Deserunt Headphones,Electronics,Headphones,10203.73,12678.35,278,3092249.68,255612.67,8.27
+396,Voluptate Fitness Equipment,Sports,Fitness Equipment,674.59,858.17,291,218318.36,22012.67,10.08
+162,Dignissimos Mixer,Home & Kitchen,Mixer,9493.93,14138.61,275,3385490.35,774659.60,22.88
+132,Et Bedsheet,Home & Kitchen,Bedsheet,9000.60,13520.27,303,3624108.41,896926.61,24.75
+322,Officia Haircare,Beauty,Haircare,987.86,1307.99,362,411951.22,54345.98,13.19
+389,Temporibus Running Shoes,Sports,Running Shoes,12031.68,14852.27,322,4201707.23,327506.27,7.79
+330,Vel Haircare,Beauty,Haircare,12419.99,16856.02,313,4578095.05,690638.08,15.09
+237,Blanditiis Accessories,Fashion,Accessories,2184.74,2662.42,284,651760.50,31294.42,4.80
+451,Recusandae Academic,Books,Academic,2185.15,2892.19,299,754716.76,101356.91,13.43
+262,Nihil Haircare,Beauty,Haircare,5178.57,6516.18,287,1619922.20,133672.73,8.25
+323,Distinctio Skincare,Beauty,Skincare,3215.54,4296.45,296,1097742.87,145943.09,13.29
+348,Sequi Running Shoes,Sports,Running Shoes,14835.59,23152.40,227,4682572.90,1314893.97,28.08
+337,Ratione Cricket Equipment,Sports,Cricket Equipment,5641.15,6759.89,296,1763993.35,94212.95,5.34
+114,Reiciendis Kitchen Appliance,Home & Kitchen,Kitchen Appliance,1988.81,2651.46,280,652126.55,95259.75,14.61
+60,Porro Headphones,Electronics,Headphones,11704.59,18239.78,289,4679415.47,1296788.90,27.71
+399,Praesentium Cricket Equipment,Sports,Cricket Equipment,8688.35,10549.46,255,2299254.63,83725.38,3.64
+238,Doloribus Dress,Fashion,Dress,11684.27,15014.42,288,3829427.91,464358.19,12.13
+112,Ducimus Cookware,Home & Kitchen,Cookware,10995.08,14484.29,297,3727532.06,461993.30,12.39
+268,Commodi Perfume,Beauty,Perfume,10550.46,16219.11,279,3981791.45,1038213.17,26.07
+289,Ad Perfume,Beauty,Perfume,7877.65,12404.44,266,2890854.65,795399.75,27.51
+65,Aperiam Smartwatch,Electronics,Smartwatch,9989.91,11608.70,289,2912622.95,25539.08,0.88
+124,Impedit Kitchen Appliance,Home & Kitchen,Kitchen Appliance,6888.94,9724.71,326,2806064.96,560270.52,19.97
+452,Ipsum Non-Fiction,Books,Non-Fiction,13237.93,15822.64,340,4700906.32,200010.12,4.25
+98,Eos Bedsheet,Home & Kitchen,Bedsheet,12325.12,17684.77,352,5563628.57,1225186.24,22.02
+200,Accusamus Jeans,Fashion,Jeans,1360.11,2143.96,322,601273.63,163318.21,27.16
+490,Modi Academic,Books,Academic,9742.88,13443.30,294,3438796.02,574389.34,16.70
+235,Nesciunt Jeans,Fashion,Jeans,5650.36,7343.71,303,1906427.07,194368.10,10.20
+82,Aut Smartphone,Electronics,Smartphone,12293.91,17381.22,296,4489569.34,850571.98,18.95
+119,Sit Mixer,Home & Kitchen,Mixer,5405.87,7972.41,289,2031370.27,469073.84,23.09
+286,Praesentium Makeup,Beauty,Makeup,14118.38,18989.83,329,5464323.72,819376.70,15.00
+306,Eaque Perfume,Beauty,Perfume,7991.82,11577.65,301,3007294.52,601756.81,20.01
+376,Provident Sportswear,Sports,Sportswear,14526.72,18926.70,298,4917156.85,588194.37,11.96
+147,Ducimus Storage,Home & Kitchen,Storage,2914.67,3393.45,263,766580.20,21.99,0.00
+480,Maiores Academic,Books,Academic,8440.81,9857.37,350,2993190.38,38906.88,1.30
+338,Impedit Sportswear,Sports,Sportswear,5455.95,8441.80,301,2193601.73,551360.78,25.13
+202,Dicta Accessories,Fashion,Accessories,12843.99,20164.76,265,4655034.84,1251377.49,26.88
+358,Sint Running Shoes,Sports,Running Shoes,8789.61,13140.29,301,3465094.48,819421.87,23.65
+412,Exercitationem Sportswear,Sports,Sportswear,358.72,568.57,290,146861.61,42832.76,29.17
+79,Corporis Tablet,Electronics,Tablet,4762.17,6802.09,295,1735553.34,330713.19,19.06
+26,Excepturi Bluetooth Speaker,Electronics,Bluetooth Speaker,4777.45,7343.40,311,2013560.28,527773.33,26.21
+72,Corporis Smartwatch,Electronics,Smartwatch,12016.89,16888.85,342,5026966.25,917189.69,18.25
+77,Aliquam Laptop,Electronics,Laptop,2522.95,3896.44,292,986383.71,249682.31,25.31
+232,Eligendi Jeans,Fashion,Jeans,13778.26,16010.93,286,3919475.68,-21106.68,-0.54
+131,Nulla Kitchen Appliance,Home & Kitchen,Kitchen Appliance,9366.10,11885.63,302,3111658.00,283095.80,9.10
+198,Harum Shoes,Fashion,Shoes,3382.03,4739.21,295,1225796.85,228098.00,18.61
+17,A Tablet,Electronics,Tablet,9728.94,15558.86,323,4372817.50,1230369.77,28.14
+28,Repellendus Tablet,Electronics,Tablet,2883.47,3353.74,272,794500.98,10197.26,1.28
+37,Ab Tablet,Electronics,Tablet,2670.41,3819.22,315,1031380.42,190201.27,18.44
+310,Hic Haircare,Beauty,Haircare,12159.68,16190.84,261,3726321.80,552645.32,14.83
+212,Fugiat Accessories,Fashion,Accessories,10262.65,12895.18,287,3183819.91,238439.41,7.49
+404,Ratione Running Shoes,Sports,Running Shoes,10906.39,13643.04,279,3279786.78,236903.97,7.22
+353,Maxime Fitness Equipment,Sports,Fitness Equipment,8309.92,9562.26,292,2406342.66,-20154.07,-0.84
+489,Iure Non-Fiction,Books,Non-Fiction,2234.18,2791.52,277,673035.47,54167.61,8.05
+225,Impedit Accessories,Fashion,Accessories,7626.76,10101.31,309,2751596.83,394927.99,14.35
+83,Aspernatur Smartwatch,Electronics,Smartwatch,5236.91,7220.51,305,1922460.71,325203.16,16.92
+333,Eaque Fitness Equipment,Sports,Fitness Equipment,13765.15,19776.95,325,5724438.24,1250764.67,21.85
+63,Iure Bluetooth Speaker,Electronics,Bluetooth Speaker,9121.24,14412.23,332,4114691.72,1086440.14,26.40
+174,Ipsam Dress,Fashion,Dress,8400.40,12757.06,317,3570701.00,907774.28,25.42
+216,Impedit Dress,Fashion,Dress,13990.61,21452.90,294,5534848.21,1421608.85,25.68
+45,Esse Tablet,Electronics,Tablet,1521.62,1925.73,306,515614.10,49998.38,9.70
+395,Possimus Running Shoes,Sports,Running Shoes,2987.51,4592.73,360,1451302.54,375798.94,25.89
+295,Veritatis Skincare,Beauty,Skincare,8246.43,10592.87,291,2690589.05,290877.92,10.81
+213,Beatae T-Shirt,Fashion,T-Shirt,5746.27,6827.09,303,1773336.65,32216.76,1.82
+134,Quod Mixer,Home & Kitchen,Mixer,989.91,1177.95,289,289893.54,3809.66,1.31
+274,Odio Perfume,Beauty,Perfume,8475.50,12668.17,343,3813752.54,906656.04,23.77
+163,Cumque Storage,Home & Kitchen,Storage,5577.80,8639.46,300,2249715.20,576375.20,25.62
+223,Pariatur T-Shirt,Fashion,T-Shirt,8712.78,12873.73,274,3065878.79,678577.07,22.13
+352,Voluptas Cricket Equipment,Sports,Cricket Equipment,11735.35,14176.13,263,3310835.15,224438.03,6.78
+36,A Bluetooth Speaker,Electronics,Bluetooth Speaker,10704.30,15068.68,336,4442246.85,845602.05,19.04
+221,Voluptas T-Shirt,Fashion,T-Shirt,5180.84,6747.02,294,1734996.39,211829.43,12.21
+362,Facilis Cricket Equipment,Sports,Cricket Equipment,12066.24,15046.67,257,3331332.81,230309.17,6.91
+430,Saepe Technical,Books,Technical,13935.53,21482.33,319,6063387.58,1617953.51,26.68
+102,Quibusdam Storage,Home & Kitchen,Storage,733.97,1054.96,282,259994.92,53015.38,20.39
+158,Quibusdam Cookware,Home & Kitchen,Cookware,13656.56,17231.95,299,4495815.83,412504.45,9.18
+460,Non Non-Fiction,Books,Non-Fiction,12861.15,19011.35,256,4289911.15,997456.69,23.25
+265,Hic Perfume,Beauty,Perfume,12061.02,19070.87,301,5013731.73,1383364.71,27.59
+111,Ipsa Mixer,Home & Kitchen,Mixer,5744.04,7981.02,298,2102200.78,390476.92,18.57
+459,Excepturi Fiction,Books,Fiction,14569.83,19170.66,261,4404459.11,601733.48,13.66
+16,Sequi Smartphone,Electronics,Smartphone,13613.39,20077.91,224,3875036.59,825637.23,21.31
+207,Dolores Jacket,Fashion,Jacket,4460.70,6029.66,334,1762469.61,272595.83,15.47
+62,Aliquid Smartphone,Electronics,Smartphone,4815.62,6900.68,310,1870429.36,377587.16,20.19
+123,Sint Cookware,Home & Kitchen,Cookware,6232.65,8616.24,267,2001552.61,337435.06,16.86
+326,Nihil Haircare,Beauty,Haircare,11850.91,15376.98,284,3831174.50,465516.12,12.15
+385,Dolorum Cricket Equipment,Sports,Cricket Equipment,4924.26,7783.38,274,1849720.19,500472.84,27.06
+371,Dolores Cricket Equipment,Sports,Cricket Equipment,4394.59,5217.29,335,1518231.46,46043.72,3.03
+492,Itaque Non-Fiction,Books,Non-Fiction,8601.34,10963.32,288,2758919.42,281733.50,10.21
+365,Ducimus Running Shoes,Sports,Running Shoes,2027.84,2368.65,279,580200.79,14433.52,2.49
+157,Nihil Storage,Home & Kitchen,Storage,1716.32,2542.54,265,581097.56,126272.91,21.73
+413,Sapiente Running Shoes,Sports,Running Shoes,6724.37,8069.87,314,2193390.71,81938.61,3.74
+308,Culpa Makeup,Beauty,Makeup,14744.82,20732.20,304,5457751.65,975326.37,17.87
+100,Laudantium Storage,Home & Kitchen,Storage,12175.40,15309.06,340,4589656.10,450020.20,9.81
+183,Exercitationem Accessories,Fashion,Accessories,698.38,999.98,266,236595.20,50826.16,21.48
+313,Nemo Skincare,Beauty,Skincare,12733.98,20023.35,321,5683627.90,1596020.32,28.08
+150,Quam Furniture,Home & Kitchen,Furniture,1094.85,1301.05,320,363643.48,13291.70,3.66
+140,Nobis Kitchen Appliance,Home & Kitchen,Kitchen Appliance,3105.42,3901.11,300,1021115.50,89489.50,8.76
+248,Maxime Shoes,Fashion,Shoes,8624.02,12778.60,296,3257904.07,705194.15,21.65
+137,Totam Kitchen Appliance,Home & Kitchen,Kitchen Appliance,5052.89,6701.56,288,1675389.96,220157.64,13.14
+421,Sequi Non-Fiction,Books,Non-Fiction,14524.51,21763.58,327,6278792.84,1529278.07,24.36
+208,Alias Jacket,Fashion,Jacket,5511.95,8215.12,333,2407440.90,571961.55,23.76
+392,Quos Running Shoes,Sports,Running Shoes,11064.32,16213.53,306,4321716.35,936034.43,21.66
+24,Beatae Bluetooth Speaker,Electronics,Bluetooth Speaker,4301.34,6646.55,268,1562604.01,409844.89,26.23
+191,Sit Jeans,Fashion,Jeans,13671.77,17926.39,329,5198652.83,700640.50,13.48
+429,Consequuntur Technical,Books,Technical,10622.27,16046.48,268,3799004.14,952235.78,25.07
+25,Repellat Smartwatch,Electronics,Smartwatch,1555.27,2465.05,330,708208.92,194969.89,27.53
+141,Cumque Mixer,Home & Kitchen,Mixer,6521.32,8273.04,281,2028963.12,196472.20,9.68
+94,Expedita Furniture,Home & Kitchen,Furniture,13298.31,19872.29,318,5568215.72,1339353.14,24.05
+122,Quae Mixer,Home & Kitchen,Mixer,879.17,1303.06,314,359188.44,83129.03,23.14
+218,Sapiente Jacket,Fashion,Jacket,5280.77,8142.26,279,2003810.12,530475.21,26.47
+49,Ut Headphones,Electronics,Headphones,12853.49,15891.99,324,4524449.33,359918.68,7.95
+434,Sit Academic,Books,Academic,13002.06,14991.61,300,3938296.24,37678.24,0.96
+211,Iure Jeans,Fashion,Jeans,4209.25,6198.16,303,1619579.21,344176.46,21.25
+465,Quos Academic,Books,Academic,9656.64,11927.03,311,3258464.74,255249.70,7.83
+449,Reprehenderit Academic,Books,Academic,7081.10,9707.67,337,2816680.50,430349.86,15.28
+64,Iste Tablet,Electronics,Tablet,14722.37,20118.76,280,5031701.87,909438.27,18.07
+55,Vel Laptop,Electronics,Laptop,11290.88,15081.39,312,4133808.76,611054.30,14.78
+148,Minus Furniture,Home & Kitchen,Furniture,629.10,837.69,284,206867.54,28203.14,13.63

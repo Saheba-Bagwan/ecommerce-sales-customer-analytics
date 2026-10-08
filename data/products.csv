@@ -1,0 +1,499 @@
+product_id,product_name,category,subcategory,cost_price,selling_price
+1,Repellendus Tablet,Electronics,Tablet,11031.17,17046.14
+2,A Smartwatch,Electronics,Smartwatch,3431.48,4558.22
+3,Odio Headphones,Electronics,Headphones,4782.88,6515.33
+4,Delectus Headphones,Electronics,Headphones,3986.41,5407.84
+5,Provident Laptop,Electronics,Laptop,6159.8,8223.39
+6,Assumenda Tablet,Electronics,Tablet,6152.81,7086.06
+7,Optio Headphones,Electronics,Headphones,5788.85,8525.08
+8,Sed Laptop,Electronics,Laptop,12851.15,17957.31
+9,Expedita Laptop,Electronics,Laptop,1978.16,3135.73
+10,Voluptate Bluetooth Speaker,Electronics,Bluetooth Speaker,9746.28,11765.48
+11,Illo Smartwatch,Electronics,Smartwatch,12469.1,15531.97
+12,Illum Smartwatch,Electronics,Smartwatch,6347.0,10036.35
+13,Nobis Laptop,Electronics,Laptop,7315.27,11013.59
+14,Sequi Headphones,Electronics,Headphones,2178.22,2761.2
+15,Minus Laptop,Electronics,Laptop,9060.71,11225.34
+16,Sequi Smartphone,Electronics,Smartphone,13613.39,20077.91
+17,A Tablet,Electronics,Tablet,9728.94,15558.86
+18,Tempore Headphones,Electronics,Headphones,8634.82,12503.36
+19,Repellendus Smartphone,Electronics,Smartphone,13521.98,17989.63
+20,Culpa Headphones,Electronics,Headphones,680.43,866.14
+21,Architecto Tablet,Electronics,Tablet,14830.35,17685.57
+22,Dolore Laptop,Electronics,Laptop,3935.14,6144.19
+23,Esse Laptop,Electronics,Laptop,14977.52,20735.97
+24,Beatae Bluetooth Speaker,Electronics,Bluetooth Speaker,4301.34,6646.55
+25,Repellat Smartwatch,Electronics,Smartwatch,1555.27,2465.05
+26,Excepturi Bluetooth Speaker,Electronics,Bluetooth Speaker,4777.45,7343.4
+27,Numquam Headphones,Electronics,Headphones,5401.97,6586.67
+28,Repellendus Tablet,Electronics,Tablet,2883.47,3353.74
+29,Tempore Headphones,Electronics,Headphones,11290.55,15360.31
+30,Veniam Bluetooth Speaker,Electronics,Bluetooth Speaker,1507.55,2247.33
+31,Quae Smartphone,Electronics,Smartphone,4742.56,6969.88
+32,Assumenda Laptop,Electronics,Laptop,11881.41,15013.22
+33,Fugit Smartwatch,Electronics,Smartwatch,1603.74,2341.76
+34,Fugiat Bluetooth Speaker,Electronics,Bluetooth Speaker,5203.15,6802.21
+35,Necessitatibus Tablet,Electronics,Tablet,11124.07,16898.8
+36,A Bluetooth Speaker,Electronics,Bluetooth Speaker,10704.3,15068.68
+37,Ab Tablet,Electronics,Tablet,2670.41,3819.22
+38,Possimus Headphones,Electronics,Headphones,8692.36,10768.1
+39,Repellat Smartphone,Electronics,Smartphone,3286.89,5041.85
+40,Beatae Laptop,Electronics,Laptop,13661.93,18132.72
+41,Sed Smartwatch,Electronics,Smartwatch,7548.86,10341.84
+42,Explicabo Headphones,Electronics,Headphones,6529.51,8955.66
+43,Repudiandae Headphones,Electronics,Headphones,5618.39,6991.07
+44,Dolores Smartwatch,Electronics,Smartwatch,6492.15,8075.45
+45,Esse Tablet,Electronics,Tablet,1521.62,1925.73
+46,Iure Smartwatch,Electronics,Smartwatch,1280.01,1671.34
+47,Sit Smartwatch,Electronics,Smartwatch,547.61,764.72
+48,Voluptate Smartwatch,Electronics,Smartwatch,12031.82,14806.6
+49,Ut Headphones,Electronics,Headphones,12853.49,15891.99
+50,Dolore Smartwatch,Electronics,Smartwatch,9182.6,13368.12
+51,Assumenda Headphones,Electronics,Headphones,12772.97,15349.81
+52,Dolorum Smartphone,Electronics,Smartphone,690.74,817.66
+53,Placeat Laptop,Electronics,Laptop,9224.89,11996.42
+54,Eos Smartwatch,Electronics,Smartwatch,14511.86,18698.79
+55,Vel Laptop,Electronics,Laptop,11290.88,15081.39
+56,Asperiores Tablet,Electronics,Tablet,7590.99,9263.5
+57,Ipsa Smartphone,Electronics,Smartphone,4070.92,5753.28
+58,Repellat Smartphone,Electronics,Smartphone,1488.06,2289.83
+59,Reiciendis Smartwatch,Electronics,Smartwatch,14271.26,17036.49
+60,Porro Headphones,Electronics,Headphones,11704.59,18239.78
+61,Quia Tablet,Electronics,Tablet,12417.67,18214.44
+62,Aliquid Smartphone,Electronics,Smartphone,4815.62,6900.68
+63,Iure Bluetooth Speaker,Electronics,Bluetooth Speaker,9121.24,14412.23
+64,Iste Tablet,Electronics,Tablet,14722.37,20118.76
+65,Aperiam Smartwatch,Electronics,Smartwatch,9989.91,11608.7
+66,Corrupti Headphones,Electronics,Headphones,9273.83,13053.22
+67,In Headphones,Electronics,Headphones,10061.34,13323.2
+68,Hic Laptop,Electronics,Laptop,14671.56,20728.2
+69,Est Headphones,Electronics,Headphones,1948.94,2943.74
+70,A Laptop,Electronics,Laptop,6979.42,9384.23
+71,Consequuntur Laptop,Electronics,Laptop,10184.48,11974.0
+72,Corporis Smartwatch,Electronics,Smartwatch,12016.89,16888.85
+73,Atque Headphones,Electronics,Headphones,14717.55,22858.01
+74,Sunt Tablet,Electronics,Tablet,9382.66,12770.15
+75,Nobis Bluetooth Speaker,Electronics,Bluetooth Speaker,12694.9,18287.28
+76,Placeat Tablet,Electronics,Tablet,13742.08,18548.64
+77,Aliquam Laptop,Electronics,Laptop,2522.95,3896.44
+78,Laborum Headphones,Electronics,Headphones,305.27,366.94
+79,Corporis Tablet,Electronics,Tablet,4762.17,6802.09
+80,Deserunt Headphones,Electronics,Headphones,10203.73,12678.35
+81,Vitae Laptop,Electronics,Laptop,11006.33,16867.44
+82,Aut Smartphone,Electronics,Smartphone,12293.91,17381.22
+83,Aspernatur Smartwatch,Electronics,Smartwatch,5236.91,7220.51
+84,Pariatur Storage,Home & Kitchen,Storage,8133.4,11698.94
+85,Ipsam Kitchen Appliance,Home & Kitchen,Kitchen Appliance,6417.49,7561.58
+86,Exercitationem Kitchen Appliance,Home & Kitchen,Kitchen Appliance,5276.73,7504.71
+87,Iste Cookware,Home & Kitchen,Cookware,14138.11,19445.97
+88,Eius Furniture,Home & Kitchen,Furniture,12957.49,19669.94
+89,Libero Kitchen Appliance,Home & Kitchen,Kitchen Appliance,4541.48,5657.06
+90,Veritatis Storage,Home & Kitchen,Storage,13753.92,21962.08
+91,Impedit Furniture,Home & Kitchen,Furniture,4252.34,6581.21
+92,Vero Mixer,Home & Kitchen,Mixer,2689.6,3336.03
+93,Doloremque Furniture,Home & Kitchen,Furniture,6055.08,8306.1
+94,Expedita Furniture,Home & Kitchen,Furniture,13298.31,19872.29
+95,Nobis Bedsheet,Home & Kitchen,Bedsheet,8999.01,13622.83
+96,Maxime Bedsheet,Home & Kitchen,Bedsheet,11083.21,15330.4
+97,Velit Storage,Home & Kitchen,Storage,11172.97,14784.69
+98,Eos Bedsheet,Home & Kitchen,Bedsheet,12325.12,17684.77
+99,Perferendis Furniture,Home & Kitchen,Furniture,11219.81,14664.2
+100,Laudantium Storage,Home & Kitchen,Storage,12175.4,15309.06
+101,Minima Furniture,Home & Kitchen,Furniture,13625.44,20963.97
+102,Quibusdam Storage,Home & Kitchen,Storage,733.97,1054.96
+103,Fuga Bedsheet,Home & Kitchen,Bedsheet,548.06,720.18
+104,Sequi Furniture,Home & Kitchen,Furniture,7528.29,10691.92
+105,Consequatur Mixer,Home & Kitchen,Mixer,8475.54,10787.69
+106,Debitis Storage,Home & Kitchen,Storage,7958.43,10578.85
+107,Tempora Cookware,Home & Kitchen,Cookware,9696.9,12280.29
+108,Quo Mixer,Home & Kitchen,Mixer,3707.95,5606.9
+109,Dolorum Bedsheet,Home & Kitchen,Bedsheet,4338.93,6682.41
+110,Molestiae Mixer,Home & Kitchen,Mixer,11638.21,15908.48
+111,Ipsa Mixer,Home & Kitchen,Mixer,5744.04,7981.02
+112,Ducimus Cookware,Home & Kitchen,Cookware,10995.08,14484.29
+113,Inventore Furniture,Home & Kitchen,Furniture,8789.12,10845.23
+114,Reiciendis Kitchen Appliance,Home & Kitchen,Kitchen Appliance,1988.81,2651.46
+115,Beatae Furniture,Home & Kitchen,Furniture,4683.57,6946.44
+116,Fugiat Mixer,Home & Kitchen,Mixer,10510.09,13395.25
+117,Quas Mixer,Home & Kitchen,Mixer,7225.83,9800.89
+118,Iusto Mixer,Home & Kitchen,Mixer,14520.34,22418.87
+119,Sit Mixer,Home & Kitchen,Mixer,5405.87,7972.41
+120,Natus Furniture,Home & Kitchen,Furniture,3432.67,5200.01
+121,Cum Storage,Home & Kitchen,Storage,4012.0,4666.72
+122,Quae Mixer,Home & Kitchen,Mixer,879.17,1303.06
+123,Sint Cookware,Home & Kitchen,Cookware,6232.65,8616.24
+124,Impedit Kitchen Appliance,Home & Kitchen,Kitchen Appliance,6888.94,9724.71
+125,Necessitatibus Cookware,Home & Kitchen,Cookware,3190.95,4087.95
+126,Iste Furniture,Home & Kitchen,Furniture,7115.73,10257.14
+127,Ullam Bedsheet,Home & Kitchen,Bedsheet,10436.52,16688.12
+128,Quibusdam Furniture,Home & Kitchen,Furniture,12983.78,19287.47
+129,Labore Cookware,Home & Kitchen,Cookware,3432.48,5271.26
+130,Facere Cookware,Home & Kitchen,Cookware,13570.75,16806.76
+131,Nulla Kitchen Appliance,Home & Kitchen,Kitchen Appliance,9366.1,11885.63
+132,Et Bedsheet,Home & Kitchen,Bedsheet,9000.6,13520.27
+133,Sit Storage,Home & Kitchen,Storage,14332.92,20195.15
+134,Quod Mixer,Home & Kitchen,Mixer,989.91,1177.95
+135,Reiciendis Cookware,Home & Kitchen,Cookware,9498.62,12787.94
+136,Excepturi Furniture,Home & Kitchen,Furniture,12102.07,14517.39
+137,Totam Kitchen Appliance,Home & Kitchen,Kitchen Appliance,5052.89,6701.56
+138,Accusantium Kitchen Appliance,Home & Kitchen,Kitchen Appliance,4083.09,6314.57
+139,Blanditiis Furniture,Home & Kitchen,Furniture,8573.57,11670.34
+140,Nobis Kitchen Appliance,Home & Kitchen,Kitchen Appliance,3105.42,3901.11
+141,Cumque Mixer,Home & Kitchen,Mixer,6521.32,8273.04
+142,Dolorum Cookware,Home & Kitchen,Cookware,13363.81,18057.64
+143,Optio Storage,Home & Kitchen,Storage,5693.83,8356.36
+144,Sequi Furniture,Home & Kitchen,Furniture,8015.95,9977.2
+145,Dicta Bedsheet,Home & Kitchen,Bedsheet,539.32,816.45
+146,In Bedsheet,Home & Kitchen,Bedsheet,10096.49,15102.74
+147,Ducimus Storage,Home & Kitchen,Storage,2914.67,3393.45
+148,Minus Furniture,Home & Kitchen,Furniture,629.1,837.69
+149,Delectus Kitchen Appliance,Home & Kitchen,Kitchen Appliance,7161.49,9630.21
+150,Quam Furniture,Home & Kitchen,Furniture,1094.85,1301.05
+151,Beatae Storage,Home & Kitchen,Storage,8217.92,12935.42
+152,At Cookware,Home & Kitchen,Cookware,9075.77,11413.87
+153,Iste Storage,Home & Kitchen,Storage,6107.08,7283.82
+154,Adipisci Cookware,Home & Kitchen,Cookware,8635.78,10426.14
+155,Occaecati Furniture,Home & Kitchen,Furniture,7033.47,9240.31
+156,Cumque Storage,Home & Kitchen,Storage,8906.1,14111.06
+157,Nihil Storage,Home & Kitchen,Storage,1716.32,2542.54
+158,Quibusdam Cookware,Home & Kitchen,Cookware,13656.56,17231.95
+159,Reiciendis Furniture,Home & Kitchen,Furniture,14040.58,18963.94
+160,Debitis Bedsheet,Home & Kitchen,Bedsheet,13766.66,18960.28
+161,Enim Mixer,Home & Kitchen,Mixer,7441.33,8779.0
+162,Dignissimos Mixer,Home & Kitchen,Mixer,9493.93,14138.61
+163,Cumque Storage,Home & Kitchen,Storage,5577.8,8639.46
+164,Placeat Furniture,Home & Kitchen,Furniture,4156.46,5707.57
+165,Culpa Furniture,Home & Kitchen,Furniture,8010.11,11955.96
+166,Blanditiis Storage,Home & Kitchen,Storage,9753.21,13153.33
+167,Hic Accessories,Fashion,Accessories,4179.79,6629.33
+168,Minus T-Shirt,Fashion,T-Shirt,3574.37,4942.98
+169,Officiis Shoes,Fashion,Shoes,7044.11,9472.83
+170,Ipsum Shoes,Fashion,Shoes,9967.03,14557.3
+171,Eos T-Shirt,Fashion,T-Shirt,13046.05,20155.34
+172,Aliquid Jacket,Fashion,Jacket,2113.58,2606.29
+173,Consectetur T-Shirt,Fashion,T-Shirt,9292.22,11476.95
+174,Ipsam Dress,Fashion,Dress,8400.4,12757.06
+175,Placeat Jeans,Fashion,Jeans,11919.54,17922.74
+176,Aspernatur Shoes,Fashion,Shoes,3836.43,6048.9
+177,Iure Dress,Fashion,Dress,7488.23,10361.21
+178,Libero Accessories,Fashion,Accessories,9437.79,14372.65
+179,Occaecati Shoes,Fashion,Shoes,14908.94,23107.98
+180,Amet Jacket,Fashion,Jacket,8517.13,11989.06
+181,Corporis Shoes,Fashion,Shoes,14948.43,21143.52
+182,Harum T-Shirt,Fashion,T-Shirt,3158.56,3896.99
+183,Exercitationem Accessories,Fashion,Accessories,698.38,999.98
+184,Unde Shoes,Fashion,Shoes,6648.56,10173.19
+185,Adipisci Shoes,Fashion,Shoes,2486.82,3552.9
+186,Dignissimos T-Shirt,Fashion,T-Shirt,2038.13,2675.5
+187,Numquam Jeans,Fashion,Jeans,12534.39,18075.07
+188,Mollitia Jeans,Fashion,Jeans,9184.37,13034.02
+189,Odio Jacket,Fashion,Jacket,6152.64,7617.74
+190,Ullam T-Shirt,Fashion,T-Shirt,14399.04,21888.48
+191,Sit Jeans,Fashion,Jeans,13671.77,17926.39
+192,Unde Dress,Fashion,Dress,5418.84,8594.68
+193,Rem Jeans,Fashion,Jeans,634.4,900.06
+194,Cupiditate Jacket,Fashion,Jacket,1936.62,2534.94
+195,Velit T-Shirt,Fashion,T-Shirt,12103.8,17637.39
+196,Quaerat Jeans,Fashion,Jeans,13880.99,16124.02
+197,Debitis Jeans,Fashion,Jeans,13022.45,18655.7
+198,Harum Shoes,Fashion,Shoes,3382.03,4739.21
+199,Harum Shoes,Fashion,Shoes,264.81,339.35
+200,Accusamus Jeans,Fashion,Jeans,1360.11,2143.96
+201,Hic Jeans,Fashion,Jeans,10556.79,15741.53
+202,Dicta Accessories,Fashion,Accessories,12843.99,20164.76
+203,Quibusdam Jeans,Fashion,Jeans,12154.67,14281.25
+204,Et Jacket,Fashion,Jacket,13142.4,19737.16
+205,Debitis T-Shirt,Fashion,T-Shirt,8585.91,13389.91
+206,Explicabo T-Shirt,Fashion,T-Shirt,13661.24,17841.11
+207,Dolores Jacket,Fashion,Jacket,4460.7,6029.66
+208,Alias Jacket,Fashion,Jacket,5511.95,8215.12
+209,Animi Dress,Fashion,Dress,9080.05,14058.09
+210,Sed Jacket,Fashion,Jacket,12207.96,19209.56
+211,Iure Jeans,Fashion,Jeans,4209.25,6198.16
+212,Fugiat Accessories,Fashion,Accessories,10262.65,12895.18
+213,Beatae T-Shirt,Fashion,T-Shirt,5746.27,6827.09
+214,Amet Jeans,Fashion,Jeans,7393.09,11361.73
+215,Quaerat Jeans,Fashion,Jeans,11517.39,17755.82
+216,Impedit Dress,Fashion,Dress,13990.61,21452.9
+217,Debitis Jacket,Fashion,Jacket,5454.53,8620.94
+218,Sapiente Jacket,Fashion,Jacket,5280.77,8142.26
+219,Omnis Shoes,Fashion,Shoes,9768.51,14247.4
+220,Sequi Jacket,Fashion,Jacket,11794.95,17074.64
+221,Voluptas T-Shirt,Fashion,T-Shirt,5180.84,6747.02
+222,Nemo T-Shirt,Fashion,T-Shirt,3806.44,5982.15
+223,Pariatur T-Shirt,Fashion,T-Shirt,8712.78,12873.73
+224,Mollitia Jacket,Fashion,Jacket,5059.5,6509.04
+225,Impedit Accessories,Fashion,Accessories,7626.76,10101.31
+226,Deserunt Accessories,Fashion,Accessories,12028.27,13913.12
+227,Neque Accessories,Fashion,Accessories,11480.66,15850.48
+228,Expedita Shoes,Fashion,Shoes,8861.01,10649.23
+229,Eum Accessories,Fashion,Accessories,12710.54,18833.11
+230,Eos Jacket,Fashion,Jacket,8667.21,12519.64
+231,Cupiditate Shoes,Fashion,Shoes,6226.88,7974.87
+232,Eligendi Jeans,Fashion,Jeans,13778.26,16010.93
+233,Dolore Dress,Fashion,Dress,9015.76,11833.19
+234,Magnam Shoes,Fashion,Shoes,9099.75,13740.31
+235,Nesciunt Jeans,Fashion,Jeans,5650.36,7343.71
+236,Ducimus Jacket,Fashion,Jacket,1351.48,1591.91
+237,Blanditiis Accessories,Fashion,Accessories,2184.74,2662.42
+238,Doloribus Dress,Fashion,Dress,11684.27,15014.42
+239,Suscipit Dress,Fashion,Dress,9488.26,14898.44
+240,Omnis Shoes,Fashion,Shoes,5707.14,8807.52
+241,Harum Shoes,Fashion,Shoes,4401.3,6463.83
+242,Blanditiis Jeans,Fashion,Jeans,3409.01,4606.66
+243,Voluptas Shoes,Fashion,Shoes,11102.58,16826.02
+244,Ipsa Jeans,Fashion,Jeans,7341.41,9995.12
+245,Accusantium T-Shirt,Fashion,T-Shirt,452.0,532.44
+246,Voluptatum Shoes,Fashion,Shoes,13137.65,20385.93
+247,Iusto Jacket,Fashion,Jacket,14752.44,20599.4
+248,Maxime Shoes,Fashion,Shoes,8624.02,12778.6
+249,Consequuntur Dress,Fashion,Dress,13466.55,21073.94
+250,Nostrum Skincare,Beauty,Skincare,6658.38,8054.36
+251,Velit Haircare,Beauty,Haircare,11863.76,17161.47
+252,Debitis Perfume,Beauty,Perfume,1937.71,2516.02
+253,Sed Makeup,Beauty,Makeup,5283.89,6147.5
+254,Omnis Makeup,Beauty,Makeup,11692.54,15713.8
+255,Omnis Haircare,Beauty,Haircare,9436.17,14211.4
+256,Distinctio Perfume,Beauty,Perfume,4656.66,6994.34
+257,Similique Makeup,Beauty,Makeup,7464.12,10866.21
+258,Atque Perfume,Beauty,Perfume,5534.61,8370.38
+259,Necessitatibus Haircare,Beauty,Haircare,12292.13,19382.18
+260,Cupiditate Makeup,Beauty,Makeup,4289.31,5890.92
+261,Veniam Skincare,Beauty,Skincare,1027.06,1311.88
+262,Nihil Haircare,Beauty,Haircare,5178.57,6516.18
+263,Repudiandae Haircare,Beauty,Haircare,5427.24,7761.6
+264,Est Haircare,Beauty,Haircare,13338.41,17521.19
+265,Hic Perfume,Beauty,Perfume,12061.02,19070.87
+266,Repellat Perfume,Beauty,Perfume,14883.12,23520.39
+267,Nesciunt Makeup,Beauty,Makeup,3212.35,4842.46
+268,Commodi Perfume,Beauty,Perfume,10550.46,16219.11
+269,Officia Perfume,Beauty,Perfume,6338.47,7443.18
+270,Ipsa Haircare,Beauty,Haircare,11427.69,14692.41
+271,Nam Skincare,Beauty,Skincare,643.55,860.95
+272,Explicabo Skincare,Beauty,Skincare,4546.81,5391.41
+273,Quo Skincare,Beauty,Skincare,5684.24,7380.04
+274,Odio Perfume,Beauty,Perfume,8475.5,12668.17
+275,Sunt Skincare,Beauty,Skincare,9461.06,13345.66
+276,Provident Makeup,Beauty,Makeup,3501.4,4902.64
+277,Ea Skincare,Beauty,Skincare,11720.86,16728.34
+278,Aspernatur Makeup,Beauty,Makeup,13081.04,18976.71
+279,Optio Perfume,Beauty,Perfume,733.49,1033.55
+280,Unde Haircare,Beauty,Haircare,9764.2,11336.23
+281,Repudiandae Skincare,Beauty,Skincare,694.5,914.87
+282,Iure Makeup,Beauty,Makeup,9038.82,10772.24
+283,Voluptatum Haircare,Beauty,Haircare,12650.04,15533.56
+284,Distinctio Makeup,Beauty,Makeup,6207.28,7273.81
+285,Assumenda Makeup,Beauty,Makeup,10352.39,15322.63
+286,Praesentium Makeup,Beauty,Makeup,14118.38,18989.83
+287,Labore Perfume,Beauty,Perfume,8894.05,10968.35
+288,Optio Skincare,Beauty,Skincare,10052.2,15583.56
+289,Ad Perfume,Beauty,Perfume,7877.65,12404.44
+290,Fugiat Skincare,Beauty,Skincare,8482.05,12101.53
+291,Sunt Haircare,Beauty,Haircare,4393.23,6908.83
+292,Molestiae Skincare,Beauty,Skincare,11339.82,15144.29
+293,Harum Perfume,Beauty,Perfume,6597.7,8325.04
+294,Quibusdam Haircare,Beauty,Haircare,13234.04,20009.51
+295,Veritatis Skincare,Beauty,Skincare,8246.43,10592.87
+296,Eligendi Skincare,Beauty,Skincare,2946.79,3635.92
+297,Velit Perfume,Beauty,Perfume,6637.48,9068.99
+298,Officiis Makeup,Beauty,Makeup,10973.37,14658.92
+299,Beatae Haircare,Beauty,Haircare,12753.77,16145.58
+300,Ipsum Makeup,Beauty,Makeup,11544.14,17249.75
+301,Eos Perfume,Beauty,Perfume,9069.21,12201.19
+302,Assumenda Makeup,Beauty,Makeup,6746.68,10141.63
+303,Earum Haircare,Beauty,Haircare,7870.59,11470.56
+304,Placeat Perfume,Beauty,Perfume,6765.68,10382.83
+305,Nesciunt Haircare,Beauty,Haircare,9218.88,11301.83
+306,Eaque Perfume,Beauty,Perfume,7991.82,11577.65
+307,Veritatis Haircare,Beauty,Haircare,13997.51,17717.48
+308,Culpa Makeup,Beauty,Makeup,14744.82,20732.2
+309,Placeat Haircare,Beauty,Haircare,3889.96,5892.0
+310,Hic Haircare,Beauty,Haircare,12159.68,16190.84
+311,Quae Makeup,Beauty,Makeup,3100.57,3955.14
+312,Corporis Makeup,Beauty,Makeup,9473.76,14272.29
+313,Nemo Skincare,Beauty,Skincare,12733.98,20023.35
+314,Officia Perfume,Beauty,Perfume,4170.38,6588.44
+315,Explicabo Perfume,Beauty,Perfume,5979.0,8672.25
+316,Et Skincare,Beauty,Skincare,14389.3,17335.95
+317,Corporis Makeup,Beauty,Makeup,12628.78,17799.54
+318,Dignissimos Makeup,Beauty,Makeup,3796.3,5684.77
+319,Cupiditate Makeup,Beauty,Makeup,4141.09,5806.15
+320,Quis Makeup,Beauty,Makeup,2948.93,3460.87
+321,Ducimus Perfume,Beauty,Perfume,3275.27,4482.82
+322,Officia Haircare,Beauty,Haircare,987.86,1307.99
+323,Distinctio Skincare,Beauty,Skincare,3215.54,4296.45
+324,Laudantium Haircare,Beauty,Haircare,10661.29,17007.01
+325,Recusandae Haircare,Beauty,Haircare,7537.43,9497.71
+326,Nihil Haircare,Beauty,Haircare,11850.91,15376.98
+327,Odit Perfume,Beauty,Perfume,10359.99,16172.09
+328,Et Haircare,Beauty,Haircare,10201.54,13794.62
+329,Impedit Perfume,Beauty,Perfume,9845.55,14273.47
+330,Vel Haircare,Beauty,Haircare,12419.99,16856.02
+331,Praesentium Perfume,Beauty,Perfume,8512.01,9796.97
+332,Ipsum Haircare,Beauty,Haircare,5192.4,7956.72
+333,Eaque Fitness Equipment,Sports,Fitness Equipment,13765.15,19776.95
+334,Tenetur Sportswear,Sports,Sportswear,9844.55,12478.09
+335,Corporis Running Shoes,Sports,Running Shoes,14121.46,17917.1
+336,Perferendis Sportswear,Sports,Sportswear,13749.23,16836.26
+337,Ratione Cricket Equipment,Sports,Cricket Equipment,5641.15,6759.89
+338,Impedit Sportswear,Sports,Sportswear,5455.95,8441.8
+339,Voluptatem Running Shoes,Sports,Running Shoes,2828.06,3330.47
+340,Beatae Fitness Equipment,Sports,Fitness Equipment,1499.15,2186.13
+341,Nisi Sportswear,Sports,Sportswear,6757.54,9157.55
+342,Ullam Cricket Equipment,Sports,Cricket Equipment,13008.79,15763.79
+343,Explicabo Fitness Equipment,Sports,Fitness Equipment,5021.8,7202.3
+344,Officiis Cricket Equipment,Sports,Cricket Equipment,8660.41,12015.94
+345,Labore Cricket Equipment,Sports,Cricket Equipment,12106.1,16149.31
+346,Minus Cricket Equipment,Sports,Cricket Equipment,3684.4,4761.97
+347,Adipisci Running Shoes,Sports,Running Shoes,935.0,1112.1
+348,Sequi Running Shoes,Sports,Running Shoes,14835.59,23152.4
+349,Corrupti Fitness Equipment,Sports,Fitness Equipment,10701.67,14718.19
+350,Iure Sportswear,Sports,Sportswear,13505.83,18028.13
+351,Omnis Fitness Equipment,Sports,Fitness Equipment,2955.27,4050.16
+352,Voluptas Cricket Equipment,Sports,Cricket Equipment,11735.35,14176.13
+353,Maxime Fitness Equipment,Sports,Fitness Equipment,8309.92,9562.26
+354,Harum Cricket Equipment,Sports,Cricket Equipment,13817.37,20515.94
+355,Corporis Cricket Equipment,Sports,Cricket Equipment,11102.84,15221.77
+356,Minima Cricket Equipment,Sports,Cricket Equipment,5581.73,6737.76
+357,Odit Cricket Equipment,Sports,Cricket Equipment,8025.42,10491.69
+358,Sint Running Shoes,Sports,Running Shoes,8789.61,13140.29
+359,Nobis Running Shoes,Sports,Running Shoes,9348.39,10838.69
+360,Cumque Fitness Equipment,Sports,Fitness Equipment,7201.61,10561.02
+361,Ut Running Shoes,Sports,Running Shoes,9323.04,12522.21
+362,Facilis Cricket Equipment,Sports,Cricket Equipment,12066.24,15046.67
+363,Distinctio Fitness Equipment,Sports,Fitness Equipment,862.26,1357.18
+364,Ratione Cricket Equipment,Sports,Cricket Equipment,9487.17,12955.78
+365,Ducimus Running Shoes,Sports,Running Shoes,2027.84,2368.65
+366,Eveniet Cricket Equipment,Sports,Cricket Equipment,360.42,536.31
+367,Harum Fitness Equipment,Sports,Fitness Equipment,1809.28,2528.27
+368,Deserunt Sportswear,Sports,Sportswear,4455.01,6734.23
+369,Voluptates Fitness Equipment,Sports,Fitness Equipment,12381.97,14853.46
+370,Quo Sportswear,Sports,Sportswear,3740.26,5705.65
+371,Dolores Cricket Equipment,Sports,Cricket Equipment,4394.59,5217.29
+372,Assumenda Fitness Equipment,Sports,Fitness Equipment,6763.35,8535.41
+373,Sit Cricket Equipment,Sports,Cricket Equipment,2858.31,3833.69
+374,Nulla Running Shoes,Sports,Running Shoes,6092.52,7124.93
+375,Qui Fitness Equipment,Sports,Fitness Equipment,3178.45,3778.86
+376,Provident Sportswear,Sports,Sportswear,14526.72,18926.7
+377,Nisi Cricket Equipment,Sports,Cricket Equipment,6394.1,7772.0
+378,Debitis Sportswear,Sports,Sportswear,5022.78,6541.0
+379,Dolor Sportswear,Sports,Sportswear,6962.16,8441.48
+380,Expedita Cricket Equipment,Sports,Cricket Equipment,10181.89,13565.66
+381,Veniam Sportswear,Sports,Sportswear,11261.37,13680.18
+382,Itaque Running Shoes,Sports,Running Shoes,1868.47,2155.22
+383,Eum Running Shoes,Sports,Running Shoes,13570.62,20769.24
+384,Harum Sportswear,Sports,Sportswear,8337.92,9744.95
+385,Dolorum Cricket Equipment,Sports,Cricket Equipment,4924.26,7783.38
+386,Distinctio Cricket Equipment,Sports,Cricket Equipment,14577.77,17310.42
+387,Cumque Cricket Equipment,Sports,Cricket Equipment,12771.0,17293.7
+388,Et Fitness Equipment,Sports,Fitness Equipment,12190.86,19350.89
+389,Temporibus Running Shoes,Sports,Running Shoes,12031.68,14852.27
+390,Dolor Fitness Equipment,Sports,Fitness Equipment,11451.56,17905.31
+391,Voluptatum Cricket Equipment,Sports,Cricket Equipment,9518.73,12533.87
+392,Quos Running Shoes,Sports,Running Shoes,11064.32,16213.53
+393,Nihil Cricket Equipment,Sports,Cricket Equipment,13088.92,17517.84
+394,Quidem Sportswear,Sports,Sportswear,12301.95,19109.52
+395,Possimus Running Shoes,Sports,Running Shoes,2987.51,4592.73
+396,Voluptate Fitness Equipment,Sports,Fitness Equipment,674.59,858.17
+397,Reprehenderit Sportswear,Sports,Sportswear,10314.38,13775.05
+398,Unde Running Shoes,Sports,Running Shoes,9495.58,13843.12
+399,Praesentium Cricket Equipment,Sports,Cricket Equipment,8688.35,10549.46
+400,Esse Cricket Equipment,Sports,Cricket Equipment,4707.89,7227.96
+401,Doloremque Cricket Equipment,Sports,Cricket Equipment,4980.31,6410.41
+402,Itaque Cricket Equipment,Sports,Cricket Equipment,11730.06,14009.64
+403,Reiciendis Fitness Equipment,Sports,Fitness Equipment,3017.35,4001.33
+404,Ratione Running Shoes,Sports,Running Shoes,10906.39,13643.04
+405,Tempora Sportswear,Sports,Sportswear,3205.62,4029.95
+406,Repudiandae Running Shoes,Sports,Running Shoes,7333.51,10982.01
+407,Molestias Running Shoes,Sports,Running Shoes,3063.92,4489.41
+408,Asperiores Cricket Equipment,Sports,Cricket Equipment,242.89,368.91
+409,Similique Running Shoes,Sports,Running Shoes,1968.87,2947.36
+410,Repellat Running Shoes,Sports,Running Shoes,3652.65,5727.66
+411,Voluptatum Cricket Equipment,Sports,Cricket Equipment,9668.86,11757.58
+412,Exercitationem Sportswear,Sports,Sportswear,358.72,568.57
+413,Sapiente Running Shoes,Sports,Running Shoes,6724.37,8069.87
+414,Id Fitness Equipment,Sports,Fitness Equipment,5246.93,7686.92
+415,Possimus Fitness Equipment,Sports,Fitness Equipment,8366.63,12181.67
+416,Magnam Non-Fiction,Books,Non-Fiction,12966.6,20282.25
+417,Quisquam Academic,Books,Academic,1569.51,2258.33
+418,Minima Technical,Books,Technical,5834.1,6993.91
+419,Sit Academic,Books,Academic,9155.93,12074.28
+420,Quae Technical,Books,Technical,9143.74,12546.23
+421,Sequi Non-Fiction,Books,Non-Fiction,14524.51,21763.58
+422,Exercitationem Non-Fiction,Books,Non-Fiction,651.79,955.3
+423,Incidunt Fiction,Books,Fiction,10347.34,15257.14
+424,Facilis Fiction,Books,Fiction,11661.89,16594.39
+425,Excepturi Non-Fiction,Books,Non-Fiction,3860.76,5569.95
+426,Distinctio Academic,Books,Academic,8915.1,14244.2
+427,Quam Academic,Books,Academic,4455.33,6125.21
+428,Aperiam Technical,Books,Technical,10895.7,12741.67
+429,Consequuntur Technical,Books,Technical,10622.27,16046.48
+430,Saepe Technical,Books,Technical,13935.53,21482.33
+431,Facere Non-Fiction,Books,Non-Fiction,14690.93,19102.94
+432,Veniam Non-Fiction,Books,Non-Fiction,13984.66,18402.05
+433,Accusantium Fiction,Books,Fiction,10026.41,15376.72
+434,Sit Academic,Books,Academic,13002.06,14991.61
+435,Id Technical,Books,Technical,6000.97,9248.74
+436,Maiores Academic,Books,Academic,8162.17,11766.7
+437,Aut Academic,Books,Academic,2378.63,3743.5
+438,Nulla Non-Fiction,Books,Non-Fiction,6862.47,9685.93
+439,Odit Non-Fiction,Books,Non-Fiction,6277.91,9366.89
+440,Rerum Academic,Books,Academic,11857.01,18005.9
+441,Adipisci Fiction,Books,Fiction,1994.96,2685.71
+442,Voluptates Fiction,Books,Fiction,11144.66,12948.71
+443,Corrupti Non-Fiction,Books,Non-Fiction,6652.88,7660.48
+444,Porro Fiction,Books,Fiction,8925.6,13655.66
+445,Autem Fiction,Books,Fiction,12255.81,14465.04
+446,Laborum Academic,Books,Academic,924.59,1426.24
+447,Id Non-Fiction,Books,Non-Fiction,7593.99,10121.25
+448,Provident Non-Fiction,Books,Non-Fiction,8005.25,10447.86
+449,Reprehenderit Academic,Books,Academic,7081.1,9707.67
+450,Fuga Academic,Books,Academic,11816.44,14038.9
+451,Recusandae Academic,Books,Academic,2185.15,2892.19
+452,Ipsum Non-Fiction,Books,Non-Fiction,13237.93,15822.64
+453,Asperiores Technical,Books,Technical,6516.68,9418.02
+454,Minima Academic,Books,Academic,4727.45,5496.5
+455,Expedita Academic,Books,Academic,6854.05,9842.98
+456,Vitae Technical,Books,Technical,5977.08,9020.43
+457,Molestiae Fiction,Books,Fiction,14859.24,22554.04
+458,Debitis Non-Fiction,Books,Non-Fiction,746.4,1149.0
+459,Excepturi Fiction,Books,Fiction,14569.83,19170.66
+460,Non Non-Fiction,Books,Non-Fiction,12861.15,19011.35
+461,Velit Academic,Books,Academic,11996.79,17740.53
+462,Accusantium Non-Fiction,Books,Non-Fiction,5405.25,6334.51
+463,Numquam Technical,Books,Technical,1766.44,2402.6
+464,Nesciunt Technical,Books,Technical,13213.35,19491.22
+465,Quos Academic,Books,Academic,9656.64,11927.03
+466,Dolorem Fiction,Books,Fiction,8354.75,12355.59
+467,Non Academic,Books,Academic,10958.69,13895.21
+468,Eum Academic,Books,Academic,14169.31,18093.77
+469,Numquam Academic,Books,Academic,9186.75,12110.13
+470,Id Technical,Books,Technical,9888.16,12736.97
+471,Voluptates Non-Fiction,Books,Non-Fiction,5718.09,8131.04
+472,Ad Academic,Books,Academic,11325.54,13928.71
+473,Modi Non-Fiction,Books,Non-Fiction,11640.71,17799.33
+474,Provident Non-Fiction,Books,Non-Fiction,1111.41,1468.16
+475,Itaque Technical,Books,Technical,6501.63,9167.74
+476,Reiciendis Non-Fiction,Books,Non-Fiction,5846.55,8015.07
+477,Nostrum Fiction,Books,Fiction,8615.24,13637.7
+478,Explicabo Non-Fiction,Books,Non-Fiction,3320.12,4175.18
+479,Neque Fiction,Books,Fiction,3350.74,3968.4
+480,Maiores Academic,Books,Academic,8440.81,9857.37
+481,Deserunt Academic,Books,Academic,8049.47,11124.53
+482,Atque Academic,Books,Academic,5733.88,7201.41
+483,Iure Technical,Books,Technical,2833.45,4137.67
+484,Perspiciatis Fiction,Books,Fiction,2209.12,3212.04
+485,Dignissimos Academic,Books,Academic,3953.0,5442.81
+486,Illo Fiction,Books,Fiction,2957.19,3610.55
+487,Quidem Non-Fiction,Books,Non-Fiction,4497.67,5917.92
+488,Similique Academic,Books,Academic,3615.22,5741.33
+489,Iure Non-Fiction,Books,Non-Fiction,2234.18,2791.52
+490,Modi Academic,Books,Academic,9742.88,13443.3
+491,Mollitia Technical,Books,Technical,13603.85,15693.86
+492,Itaque Non-Fiction,Books,Non-Fiction,8601.34,10963.32
+493,Hic Academic,Books,Academic,5728.12,8541.29
+494,Nisi Fiction,Books,Fiction,4880.73,7733.25
+495,Id Academic,Books,Academic,10926.6,16405.62
+496,Error Fiction,Books,Fiction,6988.47,8677.78
+497,Saepe Non-Fiction,Books,Non-Fiction,10105.9,12584.45
+498,Quaerat Technical,Books,Technical,3254.66,4105.54
